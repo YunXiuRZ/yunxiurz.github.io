@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">$ cat YunXiuRZ</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-07T22:22:28&#43;08:00</updated>
+    <updated>2023-01-07T22:32:19&#43;08:00</updated>
     <id>https://yunxiurz.github.io/</id>
     <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yunxiurz.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">台大資工大一上修課心得(2023/1/7更新)</title>
             <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
             <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
-            <updated>2023-01-07T21:09:48&#43;08:00</updated>
+            <updated>2023-01-07T22:32:11&#43;08:00</updated>
             <published>2023-01-06T23:56:48&#43;08:00</published>
             <author>
                     <name>YunXiuRZ</name>
@@ -138,7 +138,7 @@
 &lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;計算機概論這門選修課也有&lt;mark&gt;分單班雙班&lt;/mark&gt;，第一堂課教授就提到了，&amp;quot;&lt;strong&gt;計算機概論這門課有非常多種教法&lt;/strong&gt;&amp;quot;，而我們學校的單班雙班在內容上同樣有著差異。&lt;/p&gt;
-&lt;p&gt;兩個班在學期初都會提到從邏輯閘到一個簡單CPU的架構，不過在那以後的內容就有差了，單班講的&lt;mark&gt;比較廣，會教爬蟲、&lt;em&gt;SQL&lt;/em&gt;、&lt;em&gt;Git&lt;/em&gt;等&lt;/mark&gt;，而雙班則會從CPU繼續往下講機器語言、組合語言、VM(不是&lt;em&gt;VMWare&lt;/em&gt;的那個VM)、高階語言、OS和Compiler(由於16週不夠講所以只有上傳影片)，相當於在&lt;mark&gt;這門課會告訴你平常寫的一條條程式碼是如何控制CPU，運算出我們所預期的結果的&lt;/mark&gt;。我自己是很喜歡雙班的內容合課程規劃，我也從中學到非常多，至於單班的教法，我覺得如果教的深度不夠的話不如自己學。&lt;/p&gt;
+&lt;p&gt;兩個班在學期初都會提到從邏輯閘到一個簡單CPU的架構，不過在那以後的內容就有差了，單班講的&lt;mark&gt;比較廣，會教爬蟲、&lt;em&gt;SQL&lt;/em&gt;、&lt;em&gt;Git&lt;/em&gt;等&lt;/mark&gt;，而雙班則會從CPU繼續往下講機器語言、組合語言、VM(不是&lt;em&gt;VMWare&lt;/em&gt;的那個VM)、高階語言、OS和Compiler(由於16週不夠講所以只有上傳影片)，相當於在&lt;mark&gt;這門課會告訴你平常寫的一條條程式碼是如何控制CPU，運算出我們所預期的結果的&lt;/mark&gt;。我自己是很喜歡雙班的內容合課程規劃，我也從中學到非常多，至於單班的教法，我覺得如果教的深度不夠的話不如自己學(為了架這個blog我已經在自己學git了)。&lt;/p&gt;
 &lt;p&gt;不過如果想要加簽換班的話需要注意，不像普物兩個班的上課時間一樣，&lt;mark&gt;計概的上課時間是和計程組合起來的&lt;/mark&gt;(對的計程也分單班雙班，考試時間和題目不一樣)，意思簡單來說就是單班在上計程的時候雙班在上計概，雙班在上計程的時候單班在上計概，所以如果計概想換班的話要跟著一起換計程的班&lt;del&gt;或者直接把劉邦鋒的計程退掉大二修張傑帆的計程&lt;/del&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;mark&gt;上課全程都會錄影&lt;/mark&gt;，而且因為教室環境超爛，又悶又熱又擠，所以我都是在捷運上的時候花時間看上課錄影，如果跟我一樣每天要花半小時以上坐捷運到學校的話也可以參考這樣做。&lt;/p&gt;
 &lt;p&gt;這門課的作業量極少，而且機上作業因為就是照搬&lt;a href=&#34;https://www.nand2tetris.org/course&#34;&gt;&lt;font color=&#34;blue&#34;&gt;課本的作業&lt;/font&gt;&lt;/a&gt;Project1~5，所以全部都能在網路上找到答案，不過不要抄襲啦，遇到真的卡住不會的再參考，另外課本會附檢查作業的一個小工具，你的Code丟上去後他會直接寫明了你寫得對或不對，所以&lt;mark&gt;不用擔心寫完後有哪裡粗心錯，最後分數被扣爛的情況&lt;/mark&gt;。除了五份機上作業，還有一份手寫作業，題目不多，而且&lt;mark&gt;題目形式和期中考差不多&lt;/mark&gt;，所以如果這份作業不會寫的話就真的要好好複習了，這樣六份作業佔總成績的50%，由於機上作業過了就是全拿沒有其他變數，只要手寫作業好好寫後基本上這部分的分數是穩全拿的。&lt;/p&gt;
