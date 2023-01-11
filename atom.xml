@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">$ cat YunXiuRZ</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-07T22:45:49&#43;08:00</updated>
+    <updated>2023-01-11T18:30:13&#43;08:00</updated>
     <id>https://yunxiurz.github.io/</id>
     <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yunxiurz.github.io/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
         <entry>
-            <title type="text">台大資工大一上修課心得(2023/1/7更新)</title>
+            <title type="text">台大資工大一上修課心得(2023/1/10更新)</title>
             <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
             <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
-            <updated>2023-01-07T22:45:45&#43;08:00</updated>
+            <updated>2023-01-11T18:03:11&#43;08:00</updated>
             <published>2023-01-06T23:56:48&#43;08:00</published>
             <author>
                     <name>YunXiuRZ</name>
@@ -91,18 +91,23 @@
 &lt;p&gt;如果你問這門課的上課方式的話，那很遺憾我沒有辦法提意見，系上大部分有程式基礎的人都沒去上課，包括我也是這樣，我花在這門課上的時間基本都在刷題目，題目會在一個叫做&lt;a href=&#34;https://judgegirl.csie.org/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;JudgeGirl&lt;/font&gt;&lt;/a&gt;的網站上，如果有人沒用過&lt;em&gt;Online Judge&lt;/em&gt;的話，這東西大概就是上面有題目，然後你可以Code打一打，打完覺得應該能過的時候上傳上去，網站就會幫你丟一些測試資料(Testcase)給你的程式吃看看它吐出來的輸出是不是對的，如果對的話你就會領到&lt;font color=&#34;green&#34;&gt;&lt;strong&gt;AC&lt;/strong&gt;&lt;/font&gt;(Accept)，錯的話就會給你&lt;font color=&#34;red&#34;&gt;&lt;strong&gt;WA&lt;/strong&gt;&lt;/font&gt;(Wrong Answer)，這兩個是最常見的結果，&lt;del&gt;不過新手也有可能領最多是&lt;strong&gt;CE&lt;/strong&gt;&lt;/del&gt;，總之，這個網站上會把題目根據上課中的每一個章節分類，你可以根據考試範圍去練習對應章節的題目，同時&lt;em&gt;JudgeGirl&lt;/em&gt;上也有歷年的考古題，推薦可以把2021和2022(就是我們這屆)的題目寫完，大家都在刷題的時候，可能會聽到有些同學在哀嚎，一些題目真的不難，但是很煩，要花非常多時間來寫，那種題目我現在來看的話，就覺得能先跳過，與其把時間花在那種題目不如去寫考古題，有一些特殊題型是考試才會出現的(比如編輯&lt;em&gt;WAV&lt;/em&gt;還有&lt;em&gt;Expression&lt;/em&gt;，甚至還有&lt;em&gt;DSA&lt;/em&gt;(資料結構與演算法)的東西)，那種的有看過一定會有幫助。&lt;/p&gt;
 &lt;p&gt;考試的部分，一個學期總&lt;mark&gt;共有五次且每三週考一次&lt;/mark&gt;，各佔學期成績20分，每次總共有三題，每題寫對了就是100分，所以一次考試的滿分是300，上課的三個小時全部給你拿來寫題目，所以專注和冷靜非常重要。根據等第算法，&lt;mark&gt;只要你錯兩題你就沒A+了&lt;/mark&gt;，除了第一週不知道助教是不是想積陰德所以出的超簡單外，其餘四次&lt;mark&gt;平均大概都在150/300左右&lt;/mark&gt;（過了停修潮以後依舊是這個範圍，可想而知越往後越難），停修的截止日期大概在&lt;mark&gt;第四次考試前&lt;/mark&gt;，所以你並不能等到五次試都考完以後再決定停修。&lt;/p&gt;
 &lt;p&gt;如果高中有寫過程式的話，要過應該是沒什麼太大的問題，有在學校的資訊社或是電子計算機研習社好好學過的可以想要怎麼拿A以上的成績了，有在能力競賽得過名的什麼都不用準備，你是真強者不用考試都A+了。我自己是高中有碰過一點&lt;em&gt;C++&lt;/em&gt;，不過只有去考過&lt;em&gt;APCS&lt;/em&gt;，觀念5實作3，最後五次考試加起來1320，距離A+只差30分拿了A QQ，不過一想到拿A+的人都多強就覺得自己已經夠幸運了XD。&lt;/p&gt;
-&lt;h3 id=&#34;微積分1&#34;&gt;微積分1&lt;/h3&gt;
+&lt;h3 id=&#34;微積分12&#34;&gt;微積分1/2&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;授課教授：蔡雅如&lt;/li&gt;
-&lt;li&gt;學分：2&lt;br&gt;
-學期成績還沒出來&lt;/li&gt;
+&lt;li&gt;學分：2/2&lt;/li&gt;
+&lt;li&gt;等第：A/A&lt;/li&gt;
+&lt;li&gt;一句話帶過：數學課&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;微積分2&#34;&gt;微積分2&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;授課教授：蔡雅如&lt;/li&gt;
-&lt;li&gt;學分：2&lt;br&gt;
-學期成績還沒出來&lt;/li&gt;
+&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;cp值：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;以前我們系的微積分有兩個班能上，不過今年有人在搞所以緊急再加開一個班，具體差別我其實也不太知道，只知道&lt;mark&gt;其中一個班是英語授課，而上課內容三個班完全一樣，考試的考卷也一模一樣&lt;/mark&gt;。&lt;/p&gt;
+&lt;p&gt;雅如班是用中文上課，上課的方式和高中很像，都是帶過觀念和公式然後開始寫題目，然後下課有作業要寫，&lt;mark&gt;整學期前半段是微積分1，主要教微分，後半段是微積分2，主要教積分和微分方程&lt;/mark&gt;，算分方式也是分開的，每次期考前都會有兩次小考，而我們這一屆的兩次第一次小考平均都炸裂，我自己的情況是微1小考29, 49，微2是29, 48，&lt;del&gt;我總是學不會教訓&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;這門課雖然是系訂必修，但是會和電機、材料和資管系的人一起上課，另外，這門課有實習課，意思是會讓助教來上一堂課，那堂課有時候會教我們寫作業，有時候會小考，也有時候會單純帶題目，我一開始還會去上課和抄筆記，不過後來我就忍不住在課上寫整節課的JudgeGirl了，因此我就再也沒去上課了，都是靠課後自己看課本，我覺得還可以，不會有很大的學習斷層。&lt;/p&gt;
+&lt;p&gt;這門課應該是我這學期扎實的學到最多的一門課，學到了很多微積分的技巧，希望以後對我有用吧。&lt;/p&gt;
 &lt;h3 id=&#34;普通物理學甲上&#34;&gt;普通物理學甲上&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;授課教授：胡德邦&lt;/li&gt;
@@ -149,7 +154,7 @@
 &lt;ul&gt;
 &lt;li&gt;授課教授：呂學一&lt;/li&gt;
 &lt;li&gt;學分：2&lt;br&gt;
-學期成績還沒出來&lt;/li&gt;
+顧定客可能還在管他的簡報所以學期成績還沒出來&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;校訂必修&#34;&gt;校訂必修&lt;/h2&gt;
 &lt;h3 id=&#34;健康體適能&#34;&gt;健康體適能&lt;/h3&gt;
@@ -237,6 +242,26 @@
 &lt;p&gt;可以選擇要不要在課堂上發表，在NTU Cool的討論區上預約時間以後&lt;mark&gt;發表完了才有拿A+的資格&lt;/mark&gt;，不過如果覺得拿A就好了而且不想上台的話可以只上傳NTU Cool，大概學期中就會有組別上台發表了，不過大部分的組別（包括我）都拖到學期末，所以學期末直接大塞車，所以如果想拖的話最好先搶好時間，有發表的同學蠻多都做遊戲，也有的人是做藝術品，甚至還有外文系的同學寫了十四行詩，學期末作品上傳截止以後也會開放同學互評，最後會選出四個獎項：微觀藝術獎、顯微創意獎、美學故事獎和微小生物科學獎，不過我忙完期末以後就忘記要去互評了。&lt;/p&gt;
 &lt;p&gt;期末考的話完全沒有壓力，教授希望讓修課的同學自己決定要考什麼題目，所以在&lt;mark&gt;NTU Cool上開了討論區讓同學自由上傳想出的題目和答案&lt;/mark&gt;，所以在&lt;mark&gt;考試前就可以知道會考什麼題目和答案是什麼了&lt;/mark&gt;，考試中也開放上網查資料，所以想不拿滿分都很難。&lt;/p&gt;
 &lt;p&gt;最後結果的話，我八次的課後測驗有兩次忘記做，期末報告有上台發表，這樣就拿A+了，不過其實我沒有在這門課學到太多有用的知識，就真的只是聽過去而已。&lt;/p&gt;
+&lt;h2 id=&#34;小結與展望&#34;&gt;小結與展望&lt;/h2&gt;
+&lt;p&gt;這學期雖然GPA可能看著還行，但是我覺得我實際上學到的東西卻完全不值24學分，而且對於GPA的數字也還是有隱憂，我的系訂必修全部都在GPA平均以下，所以看似不低的數字主要還是被通識等的雜科拉高的，等到我沒選到太多好課的學期應該就會掉下去了。&lt;/p&gt;
+&lt;p&gt;目前希望能在下學期旁聽電機所李宏毅教授開設的機器學習，看了他在YouTube公開的影片後也讓我對他的課產生了興趣，雖然我在高中有接觸一點機器學習的東西，但是頂多就是看過一些Code調一些參數而已，對於理論卻鮮少認識，不過在他的前兩部影片中，他用很簡單的例子一步一步建立一個&amp;quot;數學方法&amp;quot;，然後讓我們自然的意識到，這就是一個神經網路，我相信修習他的課會讓我學到非常多，不過這門課卻和微積分撞了一個小時，我希望大二時可以學到更深入的東西，所以決定用旁聽的方式參與這堂課。&lt;/p&gt;
+&lt;p&gt;另外如果我寫的出來NASA的hw0的話，應該也會想嘗試看看，不過我目前只找到一個隊友，沒找到隊友的話我應該會爛掉。&lt;/p&gt;
+&lt;p&gt;因為我對資訊領域在金融界的應用有興趣，所以我應該也會在大二的時候修個經原&amp;amp;總經原，之後再看學習狀況決定要不要繼續修個經總經或者乾脆輔經濟(財金不能輔)。&lt;/p&gt;
+&lt;p&gt;大概就這樣吧，希望我下學期能真正有成長。&lt;/p&gt;
+&lt;h3 id=&#34;學分統計&#34;&gt;學分統計&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;共同必修：3/12 &lt;progress id=&#34;file&#34; value=&#34;25&#34; max=&#34;100&#34;&gt; 25% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;系訂必修：10/51 &lt;progress id=&#34;file&#34; value=&#34;20&#34; max=&#34;100&#34;&gt; 20% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;選修
+&lt;ul&gt;
+&lt;li&gt;系訂選修：5/21 &lt;progress id=&#34;file&#34; value=&#34;24&#34; max=&#34;100&#34;&gt; 24% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;院內選修：0/9 &lt;progress id=&#34;file&#34; value=&#34;0&#34; max=&#34;100&#34;&gt; 0% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;一般選修：0/23 &lt;progress id=&#34;file&#34; value=&#34;0&#34; max=&#34;100&#34;&gt; 0% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通識：5/12 &lt;progress id=&#34;file&#34; value=&#34;042&#34; max=&#34;100&#34;&gt; 42% &lt;/progress&gt;  $\colorbox{white}{A1}$ $\colorbox{white}{A2}$ $\colorbox{white}{A3}$ $\colorbox{LimeGreen}{A5}$ $\colorbox{LimeGreen}{A8}$&lt;/li&gt;
+&lt;li&gt;體育：1/4 &lt;progress id=&#34;file&#34; value=&#34;25&#34; max=&#34;100&#34;&gt; 25% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
             
             
