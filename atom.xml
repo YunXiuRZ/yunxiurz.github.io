@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">$ cat YunXiuRZ</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-07-02T22:24:09&#43;08:00</updated>
+    <updated>2024-01-18T03:55:34&#43;08:00</updated>
     <id>https://yunxiurz.github.io/</id>
     <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yunxiurz.github.io/atom.xml" />
@@ -15,7 +15,7 @@
                 <email>jerrykao70310@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.115.3">Hugo</generator>
         <entry>
             <title type="text">台大資工大一下修課心得</title>
             <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />

@@ -10,7 +10,7 @@
         <title>$ cat YunXiuRZ</title>
         <link>https://yunxiurz.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.109.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.115.3 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 02 Jul 2023 22:24:09 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:55:34 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://yunxiurz.github.io/rss.xml" />
         
