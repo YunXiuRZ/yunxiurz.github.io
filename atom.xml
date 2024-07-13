@@ -4,23 +4,307 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">$ cat YunXiuRZ</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-01-18T18:00:59&#43;08:00</updated>
-    <id>https://yunxiurz.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://yunxiurz.github.io/atom.xml" />
+    <updated>2024-07-13T22:44:09&#43;08:00</updated>
+    <id>http://localhost:1313/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
     <author>
             <name>YunXiuRZ</name>
-            <uri>https://yunxiurz.github.io</uri>
+            <uri>http://localhost:1313/</uri>
             
                 <email>jerrykao70310@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.115.3">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
+        <entry>
+            <title type="text">台大資工大二下修課心得</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <updated>2024-07-13T22:40:49&#43;08:00</updated>
+            <published>2024-07-13T22:40:00&#43;08:00</published>
+            <author>
+                    <name>YunXiuRZ</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>jerrykao70310@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">就是台大資工大二下修課心得</summary>
+            
+                <content type="html">&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;抱著遺憾來到了大二下，突然發覺自己還是沒有什麼實際的能力。&lt;/p&gt;
+&lt;p&gt;由於我的國文寫作爛到流湯，所以前面幾篇修課心得充斥著「因為」、「所以」、「不過」等等重複到吐的連接詞，這次我有嘗試當自己的校稿人。&lt;/p&gt;
+&lt;p&gt;這學期的選課沒什麼核心思想，基本上就是想到什麼課就選選看，上學期和林惠雯聊過了以後決定不繼續修分導二，而是來把作業系統修一修，現在（學期結束）來看感覺蠻正確的，明年分導教授評價貌似很不賴。&lt;/p&gt;
+&lt;p&gt;修課清單：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;資工系
+&lt;ul&gt;
+&lt;li&gt;作業系統 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Operating Systems&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;服務學習甲 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Service Learning (a)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;數學系
+&lt;ul&gt;
+&lt;li&gt;線性代數二 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Linear Algebra(2)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;機率導論 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Introduction to Probability Theory&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;數理統計 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Mathematical Statistics&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;密碼學導論 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Introduction to Cryptography&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;電機系
+&lt;ul&gt;
+&lt;li&gt;生成式人工智慧導論 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Introduction to Generative Artificial Intelligence&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;後量子密碼學 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Post-quantum Cryptography&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;泛函分析與逼近理論 &lt;font color=&#34;grey&#34;&gt;&lt;em&gt;Functional Analysis and Approximation Theory&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;聽系上學長說自己沒有在資工系機率學到機率，是修數學系的機率導論（以下簡稱機率導，&lt;del&gt;省一個字而已但是還是簡稱&lt;/del&gt;）以後才學好的，不過和線性代數的狀況有點不一樣，因為本系機率和數學系機率導的時間有衝堂，所以沒辦法同時修，因此我這學期就把本系機率退掉了。好像如果不雙主修的話就一定要補修本系機率才能畢業，反正不是什麼麻煩的事，等以後再處理就好。&lt;/p&gt;
+&lt;p&gt;數理統計、密碼學導論和生成式人工智慧導論三門課都是我發現課表有位子，然後三個東西都是我覺得有學過肯定比較好的主題，所以理所當然地被我排進課表。&lt;/p&gt;
+&lt;p&gt;後量子密碼學和泛函分析與逼近理論則是我想要用探索學分來探索的課，一方面是我覺得我也是時候看一點比較接近「現在學術圈在做的事」的事，不能只是一直修大學部的基礎課，另一方面是我探索學分6學分都還沒用，再不用就要過期了，&lt;del&gt;大家都在用探索學分卷GPA，我不用好像有點浪費&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;具體來說，想修密碼學導論和後量子密碼學有一部分原因是我想要稍微了解抽象代數的應用，畢竟在網路上搜尋「數學有什麼用」，一堆文章都會拿RSA出來大做文章，那我倒要親自見識見識數學家是怎麼把密碼學變出來的；想修泛函分析與逼近理論可能有點受到上學期分導助教的影響，有兩個助教都不約而同覺得「逼近」一個函數是一件重要到不能再重要的東西，而想做到這件事情，懂泛函分析會幫助很大之類的，OK，那我也想來看看逼近理論在幹嘛，開在電機這邊的課不會需要太深的基礎吧？&lt;/p&gt;
+&lt;p&gt;每一門課我都會列出四點數據：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：學期成績好不好拿高分(非常主觀)&lt;/li&gt;
+&lt;li&gt;負擔：要花多少時間在這門課上(以該學分而言)以及會不會和其他課一起來壓你&lt;/li&gt;
+&lt;li&gt;收穫：修這門課學到多少東西或是有什麼比較難自己取得的機會&lt;/li&gt;
+&lt;li&gt;課後學習時數(每週)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外還有如果讓我再選一次的話，我還會不會選擇這學期修這門課（or 別的學期也不會修）&lt;/p&gt;
+&lt;h2 id=&#34;資工系&#34;&gt;資工系&lt;/h2&gt;
+&lt;h3 id=&#34;作業系統&#34;&gt;作業系統&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：巫芳璟(與施吉昇合授)&lt;/li&gt;
+&lt;li&gt;學分：3&lt;/li&gt;
+&lt;li&gt;等第：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：5小時（平均）&lt;/li&gt;
+&lt;li&gt;會不會再修：今年不修明年要撞分導了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因為我沒有修SP（系統程式設計），所以上學期的學期末的時候就有在想要如何準備了。聽去年先修這門課的同學講到，程式作業不會有太大的問題，不過考試會常常遇到教授預設我們知道某些機制的情況，所以他在考試的體驗不甚理想，也因此，我去找到了前幾年的&lt;a href=&#34;https://cool.ntu.edu.tw/courses/32435/modules&#34;&gt;課程網頁&lt;/a&gt;，並在寒假的時候把影片看完了，雖然沒有寫程式作業，不過結論是幫助甚大，有時候是作業的程式碼片段會用到SP教的語法，有時候是考試直接突然給一段SP有的程式碼，只要大概看過錄影就會有印象上課講過這些語法的例子，感覺大一下的時候就能用這種模式先修了。&lt;/p&gt;
+&lt;p&gt;第一次意識到這門必修是在修DSA的時候，那個時候耳聞助教提到跟系統要求記憶體可以當O(1)，當時怎麼想都想不到合理的解釋方式，實際修了這門課以後才了解到memory paging這個機制，可能可以說是我在這門課學到最印象深刻也最喜歡的一個概念了。&lt;/p&gt;
+&lt;p&gt;在準備這門課的過程中，我找了網路的資料來了解程式作業到底在幹嘛，可是每一個資料裡面都用「MIT xv6 lab」草草帶過，讓我看完了還是沒概念這是在衝啥小，所以按照慣例我也嘗試說明一下我修課前想知道但是沒人跟我解釋的東西。xv6是一個用C語言寫的小型的作業系統，「小型」指的是他的code量遠比其他市面上的作業系統少，以至於是可以讓我們比較輕鬆地看懂的。因為小型，所以功能自然不會到超級齊全，於是作業就會讓我們擴充一點他的功能，例如讓我們寫一個簡化的Thread Library，或是讓我們把檔案大小的限制改成原本的三百倍大。聽起來很複雜，但是通常一次作業好像可以用100~200行程式碼來解決的樣子，我也沒認真數。&lt;/p&gt;
+&lt;p&gt;有聽說過一個說法是這門課的程式作業比較適合抱團寫，我實際感受下來是覺得好像也還好，我雖然會嘗試去找別人討論程式作業，但是我的溝通能力可能有待加強，以至於實際討論下來對我的幫助沒有很大。比較值得一提的是同學自己寫的judge幫助就很大了，我每次作業都是去overfit同學寫的judge，最後都得到不錯的結果。&lt;/p&gt;
+&lt;p&gt;今年這門課有一個新設置的Bonus，有在討論區幫助別人的話就有機會被提高一個等第，我雖然只回答了一個問題還是被從學期成績88.1調成A+了，血賺。聽說以前的OS好像很不甜，不過今年這是一門期末考考低於平均8分還能拿A+的大甜課。&lt;/p&gt;
+&lt;p&gt;修這門課讓我覺得我不一定不喜歡系統，不過我不喜歡寫系統的作業，作業3的出題助教可能自己都沒寫過自己出的作業，不然題目一定不會寫成那種樣子。&lt;/p&gt;
+&lt;h3 id=&#34;服務學習甲&#34;&gt;服務學習甲&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：N/A，不然就當周承滿（系上行政人員）好了&lt;/li&gt;
+&lt;li&gt;學分：0&lt;/li&gt;
+&lt;li&gt;等第：Pass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：（Pass/Fail課）&lt;/li&gt;
+&lt;li&gt;負擔：（跳過）&lt;/li&gt;
+&lt;li&gt;收穫：（跳過）&lt;/li&gt;
+&lt;li&gt;課後學習時數：一學期5*2小時&lt;/li&gt;
+&lt;li&gt;會不會再修：會&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;非常奇怪，網路上好像沒有什麼有關服務學習的公開資訊，除了直接問學長以外，一直到剛開學看到系上郵件我才了解的比較詳細，所以稍微花一點篇幅講一點服學在幹嘛好了！畢竟我當初也是很想要提早先知道服學在幹嘛。&lt;/p&gt;
+&lt;p&gt;資工系的服學分成四種，杜鵑花節志工、&lt;a href=&#34;http://csiecomm.blogspot.com&#34;&gt;系友專訪&lt;/a&gt;、打掃系館和抵免，因為杜鵑花節辦在下半學年，所以上半學年可能只有後三項？而抵免的話就是各式各樣的，NASA、服務性社團&amp;hellip;等都在這類。學期初的時候系辦會開放一個禮拜的時間能讓同學自行登記想要做哪個，先搶先贏，不過我在開放的當天下午才到系辦以後發現那個表格還是超空的（早上九點就開放了），因此如果有強烈的選擇傾向的話應該是不用怕被擠去別的組別啦。&lt;/p&gt;
+&lt;p&gt;我首先就排除掉了訪談，因為我的直覺告訴我系友專訪超麻煩，而且如果對被分配到的目標不感興趣的話應該會超難搞，；系館打掃的三個可選時間段分別是星期二、三、四的13:20-14:00，資工系好像比較少把課排在這個時段，但是很遺憾地，這三個時間段被機率導論和泛函分析與逼近理論完全佔掉了，所以我完全沒有選他的可能；於是留給我的選項就只剩下今年翻開我的NASA魔法卡或去杜鵑花節當志工了，考慮到今年做服學可能比較有機會可以跟認識的人一起做，我選了杜鵑花節志工，明年的服學再直接用NASA免掉。&lt;/p&gt;
+&lt;p&gt;杜鵑花節的方案有一個好處，那就是三月初可以兩天搞定，然後就不用再管服學了，不像打掃需要整學期每個禮拜都被佔掉一小時。我假設讀者都知道杜鵑花節是什麼，當天的工人由系學會指派的工頭、資訊營的隊輔和服學人組成，分成三個部門，介紹資訊系、介紹資訊營和遊戲部，部門好像不是能自己選的，我一收到系學會的消息的時候就看到自己被列入遊戲部了，太棒了，不用動腦子。&lt;/p&gt;
+&lt;p&gt;遊戲部裡的遊戲有「拈」(會出現在國中數學課本上的那個)和兩個資訊營照搬出來的小遊戲，據說每年都一樣，所以明年可能也還是這三個遊戲。我負責的是和另一個同學一起當拈的關主，和來訪的學生競技，輸了就給他們一個精美帆布袋當獎品。我們知道原理而且手握攻略，理論上我們想要的話可以一個帆布袋都不發出去，工頭也和我們說可以乾脆一直擺同一個必勝開局，不過我覺得那樣很無聊，而因為我也懶得在腦內生亂數，所以開局方式和先後手我都是給挑戰者擺和選。另外，儘管我的組員反對，但是我還是邊跟他們玩邊提示他們應該怎麼想這個遊戲才能找到必勝法，畢竟我覺得給他們玩遊戲還不跟他們解釋這個遊戲到底和資工系有什麼關聯很莫名其妙，感覺就像是靠義務教育欺負小學生的大人。&lt;/p&gt;
+&lt;p&gt;我原本預期這兩天會是無聊的「工作」，關主就像是沒有感情的NPC，挑戰的學生拿完帆布袋或是輸到脫褲就走，但是結果卻出乎我的意料。經過提示，來玩遊戲的學生是真的會嘗試想要解決這個問題，可以看到原本互不相識的人聚集在一起討論解法，甚至真的拿著紙和筆花了半小時討論出一半對的必勝法，也有一群高中同班的，聽完提示後消失了兩個小時，回來時帶著一個寫在 repl.it 上的python solver，雖然他們寫了一個會TLE的程式，但是還是讓我有點嚇到，還以為要一次性發出五個帆布袋了，讓我印象深刻的還有一個小學的小弟弟，第一天和第二天他都跑來我們前面玩拈，真的是有夠閒。一開始我還覺得選拈作為遊戲關卡是系學會在偷懶，然而就結果而言，或許拈真的有什麼魔力，至少我相信一個帆布袋一定不足以構成讓一群學生願意站在攤位前幾個小時的理由。&lt;/p&gt;
+&lt;p&gt;就負面的面向而言，感覺找大一隊輔來介紹資訊系有點怪怪的，常常聽到他們講的都是系學會提供的冠冕堂皇的標準回答，聽著讓我心情還是有點複雜，還好我是遊戲部的，可以不用管宣傳的事，如果我被分配到的是宣傳部的話，大概會蠻痛苦的。&lt;/p&gt;
+&lt;h2 id=&#34;數學系&#34;&gt;數學系&lt;/h2&gt;
+&lt;h3 id=&#34;線性代數二&#34;&gt;線性代數二&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：林惠雯&lt;/li&gt;
+&lt;li&gt;學分：4&lt;/li&gt;
+&lt;li&gt;等第：A-&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：7小時&lt;/li&gt;
+&lt;li&gt;會不會再修：會&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;課程進行方式跟上學期差不多，差別在作業改成四個人一組分組交和取消小考，不過因為每次作業我都有寫以及變相地增加期考範圍，所以感覺負擔比上學期重。&lt;/p&gt;
+&lt;p&gt;有一個比較特別的是，這學期教授分配了一週來邀請有意的同學上台講課，主題是Quadratic Form（課本裡的其中一個星號章節），雖然主題只是一個章節，實際上會用到一點前一個章節（Bilinear Form）的內容，所以如何把完整內容用有限時間帶過會有點考驗講者先消化過完整內容的能力。照教授說的，上台講會提高拿A+的機率（考A卷的限制還是有），印象中一開始沒什麼人自願，最後教授就說數學系、經濟系、電機系和資工系各派一個代表出來講。我沒有打算拿A+所以我原本沒有打算講，不過那個禮拜旁聽完李彥寰的預測、學習與賽局了以後稍微獲得了一點啟發，自己讀了一點材料以後發現有一點意思，和教授討論了以後決定上台講Quadratic Programming，因為有另外一個資工大一卷哥也想講，和教授討論了以後我們平分了分配給資工的時間（對那個學弟超級不好意思的&amp;hellip;有感受到壓縮到他的時間讓他講不完）。&lt;/p&gt;
+&lt;p&gt;考慮到台下大部分都是數學系大一，準備教材的部分還蠻花時間的，為了要和我們的課做連結，基本上沒有一個網路上的資源是能拿來照著唸的，所以我找了六七篇有關凸最佳化的lecture notes或是教科書，花了很多時間才寫好了從generalize課堂講過的例題出發，一直到以所有人下課後都能做的事做結的大綱。&lt;/p&gt;
+&lt;p&gt;這應該算是我上大學以來最在乎的一個上台報告，然而就結果而言感覺有很大進步的空間，我一直覺得林惠雯教授上課最強的特色就是能把動機講的相當清楚和時間把控非常精準，然而我的報告最終在這兩點都做的非常糟，實際上，我為了把動機說清楚找了很多資料，也準備了一些故事，但是上台後的壓力還是讓我沒有把東西講完整。撇除上台丟臉的部分，這次報告的經驗對我的心態上真的影響蠻大的，不只是上台的經驗，台下準備的經歷更是，能在台上有自信的講話需要準備的時間真的遠遠超過把講者的講稿讀懂需要花的時間多，我準備的過程常常需要一直反問自己「為什麼這裡選擇這樣做？」、「這樣做的方法顯然需要有一定的假設，這個假設合理嗎？如果假設出錯會怎麼樣？」，一直設想台下的同學可能會想要問什麼內容（不過最後沒人問問題讓我有點小難過），等到有十足的自信台下會出現的問題十之八九都有辦法回答了以後才敢上台。真的誠心地敬佩教授的講課，一定是不只對線代熟悉，還要完全了解線代和其他領域背後的連結和脈絡才有辦法把這門課教的那麼精彩。&lt;/p&gt;
+&lt;p&gt;課程內容的部分感覺還是可以講一點學期尾聲的部分（因為有可能和其他年的線代有較大的差異），那個時間點Friedberg差不多已經上完了，所以最後拿出了Hoffman來講各種Forms，聽完之後可以說這比Friedberg上濃縮的內容完整多了；除此之外還有淺談一點Tensor Product的建構以及他的Universal Property，這部分感覺就稍嫌可惜了，由於時間限制，教授感覺講的相當相當地收斂，我們教到的例子也沒有多道課堂上能講這個Property到底是哪裡Universal，因為寒假在讀&amp;quot;Category Theory for Programmers&amp;quot;的時候有涉略到一點universal construction，所以原本蠻期待講到這部分的，不過有機會的話，暑假到中研院的實習應該能和老闆討論一點，從目前和他的郵件交流來看他應該是這方面的專家，有點扯遠了；最後一週則是用Classical Group做結，先用四元數這個不可交換的環做事來讓我們相信雖然線代第一堂課把向量空間定義在體上，但是絕對不代表線代只能處理體上的東西，數學家會找到出路，最後再以利用四元數來統合orthogonal group, unitary group和symplectic group做最後的結束。&lt;/p&gt;
+&lt;p&gt;林惠雯依舊是我心目中教學能力第一名的教授，每一堂課都像是一場表演一樣，讓我就算要八點半起床還是不願意翹掉任何一堂課，就算我兩學期都吃C我也還是會願意來修她的課，不過如果真的吃C的話應該會被她勸退就是了XD。很想繼續跟著代數修下去，可惜升大三已經開始有點畢業與找工作的壓力了，在兩個系都做到普通可能還有機會，但是在兩個系都做到很好對我來說可能就有點不自量力了。&lt;/p&gt;
+&lt;h3 id=&#34;機率導論&#34;&gt;機率導論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：江金倉&lt;/li&gt;
+&lt;li&gt;學分：4&lt;/li&gt;
+&lt;li&gt;等第：A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab; &amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：3小時&lt;/li&gt;
+&lt;li&gt;會不會再修：OK的吧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我覺得與其說這是數學系的機率課，不如說只是數理統計的機率部分DLC，以我一開始想要學多一點機率的初心來說感到蠻可惜的，不過我感覺同時修機率導論有讓我數理統計學的更好一點，所以，OK的吧。&lt;/p&gt;
+&lt;p&gt;好像這學期原本安排的教授臨時有事才丟給江金倉，跟呂學一線代一樣都是剛開學的時候還沒備好課的狀態，以往的機率導不太會管高中教過的那些機率東東，第一週就會講到機率空間與隨機變數，但是今年機率導則是第六週才講到隨機變數，進度慢超級多，特色大概就是除了講隨機變數的時候會提到Measurable function以外（而且定義之外的地方基本上都是當做continuous function在用），其他完全不會牽涉到任何的測度論、上課會講到一大堆機率的概念用在統計學上的例子（我覺得這門課少數值得說是優點的地方）、以及教授會在上課的時候一直喇賽。&lt;/p&gt;
+&lt;p&gt;Final Project應該可以算是江金倉的特色，他開過的每堂課好像都有，而這堂課當然也還是有，說是Project，其實就是讀東西寫心得報告而已，他給的材料是Ross的Stochastic Processes第二章，主旨在講Poisson Process本身的性質和變形，我沒有把整個章節完整看完，只有大概抓幾個我特別有印象而且會馬上讓我想到能拿來幹嘛的性質寫心得，想到啥寫啥。另外因為讀這個章節的過程中讓我想到了某作業系統簡報上被教授草草帶過的一頁，所以我稍微往類似的方向找資料了以後找到了一篇arxiv上融合了作業系統、資料結構和機率導論的paper，於是就加了一點那篇paper利用Poisson Process來嘗試解決什麼問題，最後拿到了大概在平均的分數。學期結束在學校巧遇到他的時候他說他覺得我寫的很有想法，可是沒有花太多時間在project上，最後才給我這個分數，哎呀，真的被他發現我沒有認真寫了。&lt;/p&gt;
+&lt;p&gt;因為我可能是少數會回他講的話的同學，而且在數統和機率導兩邊都會跟他互動，所以他很快就記住我了，開始每堂課都點我問問題，有時候問的是課堂上的，有時候單純是問一些很怪的問題，比如問我我覺得到google當工程師是不是好的工作，還有問我對他上課有沒有什麼要求，他也會說我是怪人，我也覺得他是怪人。&lt;/p&gt;
+&lt;p&gt;和他相處的過程中可以感受到他是一個很真誠不過個性很「叛逆」的老教授，他覺得很重要的想法（不僅限於數學）就會很想灌輸給我們。下課以後我常常和一些同學會一起去新生教學館的教室外面開&amp;quot;Office Hour&amp;quot;，別的同學會拿機率導問他，我會拿數統問他，然後問題都問完了以後江金倉就會開始講故事，有些故事聽著聽著會給人一點人生上的啟發，有些故事會讓人覺得他真的是有夠靠北。他講故事常常一打開話匣子就停不住，有一次講到他「故意」忘記和助教有meeting，遲到了半小時以後助教從天數跑來新生找我們。整體而言，雖然這種聊天資訊量不是很大，我應該會懷念這段時光，至少我還沒有在資工系找到能這樣聊的教授。&lt;/p&gt;
+&lt;p&gt;脫離教授本身個性的部分，單就課程內容本身我覺得深度沒有達到數學系的標準，完全可以拿去資工系教的感覺，不過如果把這門課拿去資工系教大概沒有人會給好評，因為資工系的人感覺都蠻重視GPA而且不喜歡數學課的（以我認識的人當樣本的話啦），但是這門課學期總成績平均只有62分（用學校的標準給學期等第），而且這據說還是有調高5分的結果，最後的成績也是按照學校提供的標準，真的是不知道他要當多少人。值得一提的是他第二次小考和期末考（總共佔總成績的40/110）平均只有31分，期中跟他聊天的時候有聊到他說要讓翹課的人感受到被當的恐懼，看來他是玩真的。&lt;/p&gt;
+&lt;h3 id=&#34;數理統計&#34;&gt;數理統計&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：江金倉&lt;/li&gt;
+&lt;li&gt;學分：3&lt;/li&gt;
+&lt;li&gt;等第：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：7小時&lt;/li&gt;
+&lt;li&gt;會不會再修：會&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;開學前還以為是普通的三學分課，不過實際卻比想像中的重特別多，學期初的時候很不適應教授的上課風格，不過習慣了以後就會發現教授對統計的理解有多麽深，前半段雖然是機率內容，不過教授會一直在機率的內容中穿插統計的例子來讓我們知道哪些概念是重要、之後會一直用到的，不過對我這種沒有統計基礎的人來說，會有點被大量的名詞嚇住，一直想問「這些到底是不是我應該要會的東西」，我想可能先修過統計導論熟悉他的風格以後再來修會比較好。&lt;/p&gt;
+&lt;p&gt;和機率導論講的很像，教授會在上課的時候喇賽，他講話真的很直接完全不給面子，第一次讓我留下深刻印象的課上互動是他在差不多下課的時候突然講了我的名字問了XXX是誰，因為我前幾天有寄信問他考古題的問題，然後他當著全班的面說「不想回我的信」，因為他不喜歡電子郵件。&lt;/p&gt;
+&lt;p&gt;學期成績滿分是140分，而且考試的滿分常常超過100，但是幾乎每次考試的平均都不及格，而且Final Project滿分十分平均卻不到3分，所以這不是一門前半學期分數隨便拿滿後後半學期擺爛也能拿A+的課，滿分140只是必要的校正，看機率導的慘況就知道他應該把給分的習慣完全帶去那裡了，只是因為是必修課所以不敢把學期成績滿分設成140。&lt;/p&gt;
+&lt;p&gt;他的考試風格有別於其他課的考試，據他本人所說，他的考試就是要寫考古題，如果考試的時候還要想那就是我們有問題，因為考試的每一題都是需要用到一些「思考」上的技巧的，有時不是說不用技巧就算不出來，但是只要理解了，就會發現各個題目都不是只是單純的套公式把積分積出來而已，而是真的有解釋性的題目。&lt;/p&gt;
+&lt;p&gt;我覺得和江金倉的緣分算是蠻妙的，這學期修了他七學分的課，對他的第一印象超爛，常會想著這人竟然是大學教授，怎麼會講一大堆莫名其妙的話，會好轉是當我私底下拿考古題去問他的時候，才發現題目不是只是表面的那樣，他有用心想要表達的事，只是你不問他他就不會講，自此開始更頻繁地與他交流才覺得能遇到有這種個性的教授真的蠻難得的。他常常能看得穿我的想法，而且他一定會講出來，當著全班的面也一樣，好的他會講，壞的他也會講，而且他一有機會就會嘗試把我長期習慣的心理中彎掉的那一部分給掰直，掰直的過程蠻不舒服的，不過隨著和他交流的時間久了，了解他的用意了以後就不會嫌他機掰了，反而跟他相處的更自然了，因為和他相處沒什麼好多想的。只要接受了他不是正常人，一切都可以接受了，他應該是我遇到最像「朋友」的教授了。&lt;/p&gt;
+&lt;p&gt;最後，這人竟然是教授。&lt;/p&gt;
+&lt;h3 id=&#34;密碼學導論&#34;&gt;密碼學導論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：陳君明&lt;/li&gt;
+&lt;li&gt;學分：3&lt;/li&gt;
+&lt;li&gt;等第：A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：2.5小時&lt;/li&gt;
+&lt;li&gt;會不會再修：會&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感覺沒什麼心得，授課方式很多其他地方都有寫了，學東西的話確實有學到東西，看很多人拿蕭旭君的密碼學與資訊安全（CNS）和這門課做比較（畢竟同時段而且又都是密碼學），問哪門課能學到比較多東西，先不提兩門課的取向不太一樣了，光負擔的比較就看得出來，如果CNS學到的東西比較少的話那是該反省了。&lt;/p&gt;
+&lt;p&gt;雖然是數學系的課，但是修課的有一大片都是資工系的，就結果而言，期中考滿分的都是資工系的，所以應該可以說這門課不會對非數學系不友善，可能對比較卷的人比較友善（？&lt;/p&gt;
+&lt;p&gt;有關抽象代數的東西都可以不用懂證明，雖然投影片很長一坨，不過其實會常用到的只有幾個特定性質而已，寫幾遍考古題就會知道哪些是常用的了，考試也鮮少考證明題（有啦，可是真的很少），很適合數學系的人來看看學的代數都有些什麼用，也很適合資工系的人來看看遇到的密碼學東東到底為什麼能放心用，比如我是修完課才知道在NASA搞的那些憑證是在幹嘛；以及更重要地，為什麼不能放心用。&lt;/p&gt;
+&lt;h2 id=&#34;電機系&#34;&gt;電機系&lt;/h2&gt;
+&lt;h3 id=&#34;生成式人工智慧導論&#34;&gt;生成式人工智慧導論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：李宏毅&lt;/li&gt;
+&lt;li&gt;學分：2&lt;/li&gt;
+&lt;li&gt;等第：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：1小時speed run作業&lt;/li&gt;
+&lt;li&gt;會不會再修：課表有空間的話沒有理由不填上這門課&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;很輕鬆又沒有成績壓力的課，感覺比真正的通識課還輕鬆，我猜一定會有人在公開討論區介紹這門課，所以就不詳細介紹這門課了，預設讀者都知道這門課在幹嘛。&lt;/p&gt;
+&lt;p&gt;因為同時開給文學院所以完全不需要寫程式，第一週教授有給一張表來大概評比十份作業裡面每一份的難度，不過現在來看，那個真的只是難度而已，跟花費的時間沒有明顯關聯，甚至有點負相關。後半學期的難度三星作業雖然給的colab看起來code很多，但是把每個儲存格跑完直接提交跑出來的結果基本上就是滿分了；與其相比，學期初的兩星作業常常需要想一堆東西，而且常常都是沒什麼道理的通靈，通靈成功率是蠻高的啦，不過就，我不知道自己是在幹嘛。&lt;/p&gt;
+&lt;p&gt;這門課大概也很難出現在其他地方了，如同課程大綱上講的，LLM是一個相對新的領域，甚至連適合的教科書都沒有，算是非常適合修專家開的課來學的東西了，可以知道我們隨手能利用LLM做到什麼樣的事情、什麼樣的事情會做的非常爛。看到現在系上專題展有大半的主題都是LLM，而且聽學長目前系上某自然語言處理的實驗室已經把研究重點從舊有的方法完全轉向LLM了，雖然我完全不想做LLM相關的研究，不過顯然了解一點LLM一定是有好處的。&lt;/p&gt;
+&lt;h3 id=&#34;後量子密碼學&#34;&gt;後量子密碼學&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：楊柏因&lt;/li&gt;
+&lt;li&gt;學分：3&lt;/li&gt;
+&lt;li&gt;等第：A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：2小時&lt;/li&gt;
+&lt;li&gt;會不會再修：再選一次的話可能會改去同時段的量子資訊與計算，也可能不會，我不知道&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這門課的上課內容能大概分成楊柏因本人講的和不是他講的兩個部分，由於他自己的研究是比較偏向密碼學實作的部分，而他也希望這門課能包含一點理論的內容而不是只有實作，所以他會邀請一些國外的學者或是在中研院的學生過來講偏理論而且他相對不熟的內容。&lt;/p&gt;
+&lt;p&gt;前半學期主要是講實作的部分，第一堂課先給我們大概講解後量子密碼學發展的背景、為什麼就算現在沒有量子電腦也要盡快把後量子密碼學的標準訂出來、為什麼有一派人認為量子密碼學行不通而該走後量子密碼學的路&amp;hellip;等，並給晶格派密碼學做一點簡單的介紹（跟化學的晶格沒關係）。大概看過一個基本的晶格密碼系統了以後，就會開始剖析每個加解密的步驟：我們原本做的事情雖然看起來只是寫下一條數學式子，但是隱含著的數學運算卻不一定有很顯然又有效的實作方式，所以就需要思考如何有效的做多項式乘法、取大數的模、取有限體的乘法反元素以及利用一般處理器給的32bit指令來實作256bit的大數運算。&lt;/p&gt;
+&lt;p&gt;後半學期主要則是邀請很多人來講不同種的加解密演算法，第一堂課提到後量子密碼學主要分成四個最大的派系：晶格派、超奇異橢圓曲線同源派、編碼派和雜湊派，因為教授本人是晶格派的，所以晶格密碼學的部分都是給他自己包掉，然而這不代表這門課只有他偏好的研究方向，其他派系的內容都是給外國學者來講，除了這些以外也有找人來講多變數密碼學和密碼導也有提到的同態加密。&lt;/p&gt;
+&lt;p&gt;考試都是open book，能用電子設備但是不能開網路，因為我沒有一定要拿高分，所以沒花太多時間特別去準備考試，題目應該都是只要上課有聽懂+會用sagemath就都不算太難的題目。作業的話有在ARM和Intel上用assembly實作大數乘法，聽朋友說他直接叫chatgpt生拿到了滿分。&lt;/p&gt;
+&lt;p&gt;期末報告則是給我們一個現成的晶格密碼學實作，然後讓我們利用上課所學來優化他在樹莓派上的效率，並在第18週的時候上台報告做了什麼事。程式部分的給分只要優化10%就能拿到滿分了，不過我把取模的方式改掉以後就快40%了，所以最後只有一組沒有拿到滿分，而做的最好的組印象中好像優化了97%，反正我被那個給分標準騙了，我以為40%已經還可以了，跟教授說我們組沒有用到進階的多項式乘法的時候他好像有點失望。稍微有趣一點的是，做這個期末專案的時候有稍微感受到修過NASA的小幫助，把樹莓派搞起來和連上去做事情的過程蠻順的，感謝NASA的訓練，雖然這部分和後量子密碼學應該沒什麼關係。&lt;/p&gt;
+&lt;p&gt;給分的部分整體來說應該很甜，我所有東西都差不多在平均分，最後拿了A，我認識有修的人也都是拿A，但是A+我就不知道多嚴格了，雖然我學期成績有90以上卻還是沒有拿到。&lt;/p&gt;
+&lt;p&gt;在這門課聽到了不少東西，會用「聽」是因為我是把這門課當演講課聽的，所以如果要我默寫一些上課用到的數學式子我應該背不下來，整學期感受下來，我覺得這門課和密碼導一起修很常會有相互呼應的地方，密碼導很常會提到一些補充的概念，不過不會繼續往下講，而後量子密碼學則會補上；而聽完楊柏因上課，在密碼導那邊上課的時候也讓我對實作中的側漏訊息更加敏感，&lt;del&gt;期末考的有關後量子密碼學的部分我也都不用讀。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;最後，這門課有個小趣事，原本學期中的時候教授說學期成績會在我們期末報告完的當天就馬上算出來，一直到報告當天又說會在下個禮拜以前出來（6/21），最後則是7/12才真的出來，原因是他忘了，一直到我寄信問了他才想起來，這也是為什麼大一下的心得七月初就公佈了而這篇心得七月中才寫完。&lt;/p&gt;
+&lt;p&gt;喔還有，他說他明年不開這門課了，要改開破密學。&lt;/p&gt;
+&lt;h3 id=&#34;泛函分析與逼近理論&#34;&gt;泛函分析與逼近理論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;授課教授：戴邇立&lt;/li&gt;
+&lt;li&gt;學分：3&lt;/li&gt;
+&lt;li&gt;等第：A+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;課後學習時數：5小時&lt;/li&gt;
+&lt;li&gt;會不會再修：會，當作增廣見聞&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;唯一一門初選階段還沒上我的課表的課，教授是個剛被從香港中文大學挖來電信所的法國人，這門課基本上也是從香港中文大學照搬過來的。我原本覺得修25學分會想死，不過因為電機系的朋友在揪（他可能其實是在屁話就是了，我也不知道他是不是認真在找我），所以就和他去聽了第一堂課看看。&lt;/p&gt;
+&lt;p&gt;第一堂課根本就是分析導論speed run，我感覺好像我修得起，而且課程大綱看起來蠻有意思的，外加這門課能探索，不修白不修，所以就去領了加簽的授權碼。&lt;/p&gt;
+&lt;p&gt;前半學期重點著重在數學基礎，aka我還有動力嘗試跟上的部分，大概分成四個部分：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;勒貝格測度與積分（一開始speed run分導就是為了這個）&lt;/li&gt;
+&lt;li&gt;希爾伯特空間（普物教授口頭提到但是沒有深入解釋的東西）&lt;/li&gt;
+&lt;li&gt;Distribution Theory&lt;/li&gt;
+&lt;li&gt;變分法（普物教授也有提過這個）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Distribution是我在修課以前看大綱的時候唯一一個完全沒概念在幹嘛的東西，實際聽了以後發現是一個蠻有意思的想法，並且和機率上提到的分佈不是同一個東西，這裡的Distribution是一種廣義的函數，一般的函數是吃一個數吐一個數，而我們可以對一個一般的函數定義他的distribution，使他成為一個吃一個函數吐一個數的generalized function。這種廣義的函數在做某些運算（微分、傅立葉轉換）時可能比原本的函數方便，兩個distribution相等的函數幾乎處處相等。&lt;/p&gt;
+&lt;p&gt;後半學期的主題就換成了逼近理論，但是和我想的不一樣，一堆信號和影像處理的東西，要不是有探索學分我可能就停修了，因為完全不懂在幹嘛，作業也只有寫1/3看得懂的部分。&lt;/p&gt;
+&lt;p&gt;修了這門課讓我知道我的英文聽力遠遠不夠好，雖然蔡國榮的英文我可以用1.5倍速聽懂，但是法國腔的英文我實在是有點應付不過來，而這門課只有投影片沒有講義，所以聽懂教授上課在講什麼就變得更為重要。&lt;/p&gt;
+&lt;p&gt;原本學期初說的是前半學期四個主題會各有一份作業，後半學期一份作業+一份Matlab Project，不過最後變成只有前半學期三份作業+後半學期一份作業，不知道是他懶得出了還是怎麼樣。內容不會到真的超級難，我真的卡住很久的時候我就會去問那個電機系的朋友，然後發現原來是自己在搞耍（比如我卡了一個小時在我以為xlogx不可積），有寫的部分都全對，我猜助教應該沒有改很嚴，畢竟是開在電信所而不是數學系的課。原本修課前以為要會微分方程和信號，結果根本不用會微方，倒是線代、Matlab和分析常用到，作業的Matlab我都是直接問Chatgpt語法的，因為我根本沒寫過這種東西。&lt;/p&gt;
+&lt;p&gt;感覺修這門課稍微有點可惜，前半學期還蠻有趣的，可是身為主菜的後半學期我卻沒有享受到，有點背景不合的感覺，啊A+我是真的不知道他怎麼給的，我不覺得我值得這個A+。&lt;/p&gt;
+&lt;h2 id=&#34;小結與展望&#34;&gt;小結與展望&lt;/h2&gt;
+&lt;p&gt;雖然這學期修了25學分，不過那是因為有6學分我都是打算有狀況就直接放棄，等學期末再用探索學分消掉的，所以之後應該不會再爆修了。探索學分的新制度在學生之間負評好像蠻多的，但是就結果來說，即便我的6學分額度應該是確定要全部放到過期了，這個制度還是給我勇氣選研究所的課當拓展視野，蠻感謝它的。&lt;/p&gt;
+&lt;p&gt;比較有感受的可能是發現研究所的課對作業和考試的要求好像遠遠不及把那門課修好，必修課比較不會有這樣的差距，或是應該說差距不會這麼明顯的擺在眼前，或許這可以解釋為什麼有些教授會不在乎學生在自己開的課上拿到什麼等第，就像是江金倉會幫被自己當掉的學生寫推薦信一樣。&lt;/p&gt;
+&lt;p&gt;比較遺憾的是，我覺得我一直到這學期才把應該要在大一就做完的事情給做完，雖然很多同學都已經在找教授準備做專題了，不過我下學期應該還不會做專題，想等到有辦法全力投入的時候再找教授。&lt;/p&gt;
+&lt;p&gt;寫這個的當下已經修完flolac了，所以等我實習完可能還有暑修心得（？&lt;/p&gt;
+&lt;h3 id=&#34;學分統計&#34;&gt;學分統計&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;共同必修：6/9 &lt;progress id=&#34;file&#34; value=&#34;66&#34; max=&#34;100&#34;&gt; 66% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;系訂必修：32/51 &lt;progress id=&#34;file&#34; value=&#34;63&#34; max=&#34;100&#34;&gt; 63% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;輔系必修：18/23 &lt;progress id=&#34;file&#34; value=&#34;78&#34; max=&#34;100&#34;&gt; 78% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;選修
+&lt;ul&gt;
+&lt;li&gt;系訂選修：9/21 &lt;progress id=&#34;file&#34; value=&#34;43&#34; max=&#34;100&#34;&gt; 43% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;院內選修：8/9 &lt;progress id=&#34;file&#34; value=&#34;89&#34; max=&#34;100&#34;&gt; 89% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;一般選修：5/23 &lt;progress id=&#34;file&#34; value=&#34;28&#34; max=&#34;100&#34;&gt; 28% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通識：7/15 &lt;progress id=&#34;file&#34; value=&#34;047&#34; max=&#34;100&#34;&gt; 47% &lt;/progress&gt;  $\colorbox{white}{A1}$ $\colorbox{LimeGreen}{A2}$ $\colorbox{white}{A3}$ $\colorbox{LimeGreen}{A5}$ $\colorbox{LimeGreen}{A8}$&lt;/li&gt;
+&lt;li&gt;體育：2/4 &lt;progress id=&#34;file&#34; value=&#34;50&#34; max=&#34;100&#34;&gt; 50% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall：85/151 &lt;progress id=&#34;file&#34; value=&#34;56&#34; max=&#34;100&#34;&gt; 56% &lt;/progress&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">台大資工大二上修課心得</title>
-            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
-            <updated>2024-01-18T18:00:52&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <updated>2024-07-13T22:42:03&#43;08:00</updated>
             <published>2024-01-18T04:00:00&#43;08:00</published>
             <author>
                     <name>YunXiuRZ</name>
@@ -69,9 +353,9 @@
 &lt;li&gt;一句話帶過：我只是來水學分的&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟⚫⚫⚫⚫⚫⚫⚫⚫（這是以我同時修數學系線代的觀點打的分，不代表別人來修也會沒收穫）&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;（這是以我同時修數學系線代的觀點打的分，不代表別人來修也會沒收穫）&lt;/li&gt;
 &lt;li&gt;課後學習時數：2.5小時（平均）&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -100,9 +384,9 @@
 &lt;li&gt;一句話帶過：&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟⚫ ⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab; &amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：4小時（平均）&lt;/li&gt;
 &lt;li&gt;會不會再修：會去抽抽看換班&lt;/li&gt;
 &lt;/ul&gt;
@@ -142,9 +426,9 @@
 &lt;li&gt;一句話帶過：其實是計算理論&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟⚫⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：1.5小時&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -158,7 +442,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -247,9 +531,9 @@
 &lt;li&gt;一句話帶過：不只是線性代數的線性代數&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：7小時&lt;/li&gt;
 &lt;li&gt;會不會再修：一定會&lt;/li&gt;
 &lt;/ul&gt;
@@ -268,7 +552,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -293,9 +577,9 @@
 &lt;li&gt;一句話帶過：高等微積分&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：10小時&lt;/li&gt;
 &lt;li&gt;會不會再修：不會&lt;/li&gt;
 &lt;/ul&gt;
@@ -329,7 +613,7 @@
 &lt;h3 id=&#34;學分統計&#34;&gt;學分統計&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;共同必修：6/9 &lt;progress id=&#34;file&#34; value=&#34;66&#34; max=&#34;100&#34;&gt; 66% &lt;/progress&gt;&lt;/li&gt;
-&lt;li&gt;系訂必修：29/51 &lt;progress id=&#34;file&#34; value=&#34;57&#34; max=&#34;100&#34;&gt; 39% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;系訂必修：29/51 &lt;progress id=&#34;file&#34; value=&#34;57&#34; max=&#34;100&#34;&gt; 57% &lt;/progress&gt;&lt;/li&gt;
 &lt;li&gt;輔系必修：9/23 &lt;progress id=&#34;file&#34; value=&#34;39&#34; max=&#34;100&#34;&gt; 39% &lt;/progress&gt;&lt;/li&gt;
 &lt;li&gt;選修
 &lt;ul&gt;
@@ -354,7 +638,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -364,7 +648,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
@@ -374,8 +658,8 @@
     
         <entry>
             <title type="text">台大資工大一下修課心得</title>
-            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2023-07-02T22:23:57&#43;08:00</updated>
             <published>2023-07-02T21:34:48&#43;08:00</published>
             <author>
@@ -439,9 +723,9 @@
 &lt;li&gt;一句話帶過：我想加入蔡國榮粉絲後援會&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：3小時&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -462,9 +746,9 @@
 &lt;li&gt;一句話帶過：用簡化的數學來講超難的（我覺得）物理&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：1~4小時，平均2小時&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -484,9 +768,9 @@
 &lt;li&gt;一句話帶過：介紹各種資料結構&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：9小時&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -584,9 +868,9 @@
 &lt;li&gt;一句話帶過：這門課不是什麼讓你修完可以變成網路與系統管理大神的課（來自本課course information簡報）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟🌟🌟🌟⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：15小時&lt;/li&gt;
 &lt;li&gt;會不會再修：會ㄏ&lt;/li&gt;
 &lt;/ul&gt;
@@ -740,8 +1024,8 @@
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;甜度：x&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：2小時&lt;/li&gt;
 &lt;li&gt;會不會再修：沒卡課的話這門課沒有不修的理由&lt;/li&gt;
 &lt;/ul&gt;
@@ -769,9 +1053,9 @@
 &lt;li&gt;一句話帶過：我們組勝率大概2成&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟🌟🌟⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：0(+2小時系壘練球)&lt;/li&gt;
 &lt;li&gt;會不會再修：會&lt;/li&gt;
 &lt;/ul&gt;
@@ -792,9 +1076,9 @@
 &lt;li&gt;一句話帶過：聽TA的分享能學到很多&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟⚫⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：1小時&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;這門課平常的授課內容跟上學期差不多，就那本課本沒什麼好講的。&lt;/p&gt;
@@ -811,9 +1095,9 @@
 &lt;li&gt;一句話帶過：能大概知道中國近世思想史但是又不太懂&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;li&gt;課後學習時數：2小時&lt;/li&gt;
 &lt;li&gt;會不會再修：不會&lt;/li&gt;
 &lt;/ul&gt;
@@ -865,7 +1149,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -875,7 +1159,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
@@ -885,8 +1169,8 @@
     
         <entry>
             <title type="text">台大資工大一上修課心得</title>
-            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2023-01-16T00:30:26&#43;08:00</updated>
             <published>2023-01-15T23:56:48&#43;08:00</published>
             <author>
@@ -944,10 +1228,10 @@
 &lt;li&gt;一句話帶過：讀書時間中佔了70%，&lt;del&gt;但是論我這學期學到的東西佔不到30%&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫ (9和10先預留給DSA跟ADA)&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab; (9和10先預留給DSA跟ADA)&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;打開這門課的課程大綱就會知道這門課的與眾不同，由於教授認為出作業會讓學生有找別人代寫的機會，所以決定你這門課的分數的方式是&lt;mark&gt;100%的考試&lt;/mark&gt;，關於這門課也有很多的經典，如教授第一堂課的名言：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    看看你的左邊，看看你的右邊，你們之中其中有一個人會被當，另一個會停修
@@ -965,10 +1249,10 @@
 &lt;li&gt;一句話帶過：數學課&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以前我們系的微積分有兩個班能上，不過今年有人在搞所以緊急再加開一個班，具體差別我其實也不太知道，只知道&lt;mark&gt;其中一個班是英語授課，而上課內容三個班完全一樣，考試的考卷也一模一樣&lt;/mark&gt;。&lt;/p&gt;
 &lt;p&gt;雅如班是用中文上課，上課的方式和高中很像，都是帶過觀念和公式然後開始寫題目，然後下課有作業要寫，&lt;mark&gt;整學期前半段是微積分1，主要教微分，後半段是微積分2，主要教積分和微分方程&lt;/mark&gt;，算分方式也是分開的，每次期考前都會有兩次小考，而我們這一屆的兩次第一次小考平均都炸裂，我自己的情況是微1小考29, 49，微2是29, 48，&lt;del&gt;我總是學不會教訓&lt;/del&gt;。&lt;/p&gt;
@@ -982,10 +1266,10 @@
 &lt;li&gt;一句話帶過：難怪以前都會有一堆雙班的來搶加簽&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟⚫⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;台大資工規定要從&lt;strong&gt;普物、普化和普生&lt;/strong&gt;裡面修6學分才能畢業，而大多數學生都會選擇修普物甲上下來解決這六學分，整個系的一百多人會被&lt;mark&gt;依照學號的單雙分成兩班&lt;/mark&gt;，不過如果&amp;quot;動機強烈&amp;rdquo;，還是能選擇用加簽的方式簽到另一班，我的學號是雙號，而胡德邦教授開的普物是給單號學生修的，可想而知我就是加簽仔。&lt;/p&gt;
 &lt;p&gt;單雙班普物有幾個區別，第一，單班&lt;mark&gt;不會教流體力學以及熱力學&lt;/mark&gt;，這也是我選擇加簽的主因，我在高中和熱力學相處的不是很愉快，我不希望上了大學還要被霸凌整學期，第二，單班&lt;mark&gt;上課的時候會開直播&lt;/mark&gt;，這樣如果我起不了床我就能在家十點爬起來上課了，怎麼想都超爽的，第三點是通常被同學間討論的，就是&lt;mark&gt;單班的給分超甜&lt;/mark&gt;。&lt;/p&gt;
@@ -1003,10 +1287,10 @@
 &lt;li&gt;一句話帶過：loading不重給分甜又能學到東西的一門選修課&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟🌟⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;計算機概論這門選修課也有&lt;mark&gt;分單班雙班&lt;/mark&gt;，第一堂課教授就提到了，&amp;quot;&lt;strong&gt;計算機概論這門課有非常多種教法&lt;/strong&gt;&amp;quot;，而我們學校的單班雙班在內容上同樣有著差異。&lt;/p&gt;
 &lt;p&gt;兩個班在學期初都會提到從邏輯閘到一個簡單CPU的架構，不過在那以後的內容就有差了，單班講的&lt;mark&gt;比較廣，會教爬蟲、&lt;em&gt;SQL&lt;/em&gt;、&lt;em&gt;Git&lt;/em&gt;等&lt;/mark&gt;，而雙班則會從CPU繼續往下講機器語言、組合語言、VM(不是&lt;em&gt;VMWare&lt;/em&gt;的那個VM)、高階語言、OS和Compiler(由於16週不夠講所以只有上傳影片)，相當於在&lt;mark&gt;這門課會告訴你平常寫的一條條程式碼是如何控制CPU，運算出我們所預期的結果的&lt;/mark&gt;。我自己是很喜歡雙班的內容合課程規劃，我也從中學到非常多，至於單班的教法，我覺得如果教的深度不夠的話不如自己學(為了架這個blog我已經在自己學git了)。&lt;/p&gt;
@@ -1024,10 +1308,10 @@
 &lt;li&gt;一句話帶過：你以為是數學課，但是都在硬背&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;我也沒有想到這門課算出來的cp值竟然是高於五顆星，我覺得我有必要反省一下我設計的算法，如果現在能重選的話我應該不會修這門課，不過原因蠻主觀的，並不是說這門課真的很爛。&lt;/p&gt;
 &lt;p&gt;我一開始會想選這門課的原因是想要在我的通識學分裡面安排一點和數理方面比較有關的課，這樣我上起課來比較不會那麼無聊，我可不希望我一個禮拜要有三小時在讀文言文之類的。&lt;/p&gt;
@@ -1049,10 +1333,10 @@
 &lt;li&gt;一句話帶過：不願意和同學組隊參加校運會就會出事&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫(收穫運動的機會)&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;(收穫運動的機會)&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;如果提到計分方式奇葩，除了計程以外，我還想提健康體適能(以下簡稱體育課)，資工系會根據&lt;mark&gt;學號後兩碼mod3&lt;/mark&gt;來決定你上哪一個老師的課，而餘0的話就會被分到德賢的班，而這個班的學期成績中，&lt;mark&gt;有20分是需要你參加體育活動&lt;/mark&gt;(比如校運會)才有機會拿到的，而且一個還不夠，另外，&lt;mark&gt;請假(除了確診)也會扣你的學期成績&lt;/mark&gt;，即便是病假也一樣(第一次免扣第二次就開始扣)，所以我原本也在考慮要不要等大二再來加簽別的老師的課。&lt;/p&gt;
 &lt;p&gt;不過第一節課聽完德賢對體育活動分數的講解以後，我就沒有那麼害怕我的GPA會被體育課拉低了，&lt;mark&gt;老師給&amp;quot;團體項目&amp;quot;分配了非常多的分數&lt;/mark&gt;，比如參加校運會大隊接力或是拔河的話，一項都是5分，另外&lt;mark&gt;水上活動也是一項5分(有下水就5分get)&lt;/mark&gt;，如果得名的話分數會雙倍給，所以我從第一週上完課就開始找同學一起參加團體項目，最終我也湊到了滿分20分，大隊接力(5)+拔河(5)+校運會繞場(5)+校運會跳遠(2)+混壘新生盃(2)+棒球新生盃(2)=21。&lt;/p&gt;
@@ -1067,10 +1351,10 @@
 &lt;li&gt;一句話帶過：很涼很甜的英文課，不過學到的東西以三學分而言有點少&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;台大規定所有學生都要修外文，不過&lt;mark&gt;外文其實並不限於英文&lt;/mark&gt;，不過因為我沒有好好讀新生手冊的緣故，我選了英文，開學後你就會發現系上有一堆人都選日文，感覺學日文也確實比較實用一點，因為大一英文其實還是教的偏基礎。&lt;/p&gt;
 &lt;p&gt;這門課和其他英文課比起來較為特別的是它&lt;mark&gt;一學期每個人有一次的&lt;em&gt;mini talk&lt;/em&gt;&lt;/mark&gt;，看最後公布的成績應該是沒有採計，每週都會抽四個人在下週給你&lt;mark&gt;5分鐘的時間用英文講任何事&lt;/mark&gt;(講不到5分鐘也沒關係)，可以是你的興趣，也可以是你的某個特別的經歷，如果想要練習報告時的台風的話就能好好利用這個時間。另外，這門課在&lt;mark&gt;第二週的時候會進行分組&lt;/mark&gt;，一組六人，而且每一組都會被&lt;mark&gt;分配1~2個外國留學生&lt;/mark&gt;，之後會以這個固定組別來進行上課討論和一次團體報告，所以有非常多和外國學生交流的機會，不過很遺憾，我們組的那個外國人好像退選了，所以第三週以後他就沒有再來過了，某一天他也退出了我們的&lt;em&gt;Line&lt;/em&gt;群組。&lt;/p&gt;
@@ -1087,10 +1371,10 @@
 &lt;li&gt;一句話帶過：需要做不少事情，不過課上能學到很多&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟🌟🌟⚫&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟⚫⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;一開始會想選普心是因為覺得心理學很酷，而且台大開了超多門普心，感覺選到的機會蠻大的，不過修了以後發現，這門課並不是什麼教你讀心術的課，甚至在前三週你會懷疑你修的到底是普心還是普生。&lt;/p&gt;
 &lt;p&gt;不過後半段的內容就會開始有趣了起來，思考、社會心理學、發展心理學，&lt;mark&gt;每一章的內容都有很多在生活中的例子與應用&lt;/mark&gt;，在上課時發現：誒，這真的是我發生的事誒，上課時感受到心理學的理論成功解釋了人的行為時真的會令人興奮，因為我認為這門課大大地滿足了我的求知慾，所以收穫評了七顆星。&lt;/p&gt;
@@ -1105,10 +1389,10 @@
 &lt;li&gt;一句話帶過：感覺沒有學到很多有用的東西，不過很好拿A+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;甜度：🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟&lt;/li&gt;
-&lt;li&gt;負擔：🌟🌟🌟⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;收穫：🌟🌟⚫⚫⚫⚫⚫⚫⚫⚫&lt;/li&gt;
-&lt;li&gt;cp值：🌟🌟🌟🌟🌟🌟🌟⚫⚫⚫&lt;/li&gt;
+&lt;li&gt;甜度：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&lt;/li&gt;
+&lt;li&gt;負擔：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;收穫：&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
+&lt;li&gt;cp值：&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x1f31f;&amp;#x26ab;&amp;#x26ab;&amp;#x26ab;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;其實這門課我有在FB的台大課程資訊交流區發一篇&lt;a href=&#34;https://www.facebook.com/groups/581323785380794/permalink/2228662600646896/&#34;&gt;&lt;font color=&#34;blue&#34;&gt;課程評價&lt;/font&gt;&lt;/a&gt;了，所以我就大概摘要這篇的內容好了。&lt;/p&gt;
 &lt;p&gt;這門課的主題是&lt;mark&gt;微生物&lt;/mark&gt;，內容涉及顯微鏡本身、真菌、細菌和病毒，同時也會講他們與動植物的互動關係，例如帶來的疾病或是共生關係。&lt;/p&gt;
@@ -1159,7 +1443,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -1169,7 +1453,7 @@
                             
                             
                             
-                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
