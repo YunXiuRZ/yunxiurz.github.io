@@ -4,22 +4,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">$ cat YunXiuRZ</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-07-13T22:44:09&#43;08:00</updated>
-    <id>http://localhost:1313/</id>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <updated>2024-09-03T22:52:29&#43;08:00</updated>
+    <id>https://yunxiurz.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://yunxiurz.github.io/atom.xml" />
     <author>
             <name>YunXiuRZ</name>
-            <uri>http://localhost:1313/</uri>
+            <uri>https://yunxiurz.github.io/</uri>
             
                 <email>jerrykao70310@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
         <entry>
+            <title type="text">中研院資訊所實習心得 &amp; FLOLAC</title>
+            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/" />
+            <id>https://yunxiurz.github.io/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/</id>
+            <updated>2024-09-03T22:51:53&#43;08:00</updated>
+            <published>2024-09-03T22:51:00&#43;08:00</published>
+            <author>
+                    <name>YunXiuRZ</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>jerrykao70310@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">暑期實習心得以及FLOLAC修課心得</summary>
+            
+                <content type="html">&lt;h2 id=&#34;起點&#34;&gt;起點&lt;/h2&gt;
+&lt;p&gt;升大三的暑假沒有什麼特別的安排，再加上我大三上（預計）的課表看起來不是很有空間能做專題，有鑒於我對學術研究有一定的好奇，而大四才開始接觸專題太過晚了，於是決定投個學術相關的暑期實習。&lt;/p&gt;
+&lt;p&gt;除此之外，在導生宴上因緣際會認識的學長（也是讓我開始讀數學系的東西的那個學長）推薦了一本&lt;a href=&#34;https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/&#34;&gt;書&lt;/a&gt;給我，讓我開始對將程式與數學物件連結產生興趣，稍微在網路上找了一下以後發現，這個領域不要說在台灣，在全世界都沒有很多學者在研究（相比其他領域），而中研院剛好有人在研究這個，所以就開始研究起了中研院的暑期實習。&lt;/p&gt;
+&lt;p&gt;可以選擇的&lt;a href=&#34;https://summerinterns.iis.sinica.edu.tw/Information/AllResearch.jsf?DesignatedYear=2024&#34;&gt;主題&lt;/a&gt;相當多，我考量的點有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;希望能接觸全台灣幾乎只有中研院有人在研究而且我也有興趣的領域，例如複雜度理論或程式語言學&lt;/li&gt;
+&lt;li&gt;希望進行的方式是自己找有興趣的題目並和教授討論，模擬實際的研究過程&lt;/li&gt;
+&lt;li&gt;兩年一度的 FLOLAC（中研院的幾個程式語言學的研究員在台大開設的暑期研習）今年剛好輪到了我比較有興趣的那一個主題，因為這個研習的進行時間和實習時間重疊，所以那幾個研究員的實習進行方式都是要求實習生先參與那個暑期研習&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;由於陳亮廷的安排完全符合以上三點，主題是「程式語言與數學的基礎」，所以我的第一志願就是他，申請時需要上傳的自傳也完全是針對他的主題來寫（不知道其他志願的研究員看到我的自傳會不會覺得滿頭問號）。我沒有和其他同學一樣放上一堆自己做過的專案（因為我覺得跟實習主題沒關係的東西上傳了應該也沒意義），只有在自傳中照他說的列出了「數學成熟度，以及對計算理論或邏輯有基本認識」相關的解釋、我從哪裡接觸到程式語言學、對 proof assistants 的想法以及附上我有興趣想了解的論文，最後如願被錄取了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究主題介紹
+&lt;img src=&#34;https://yunxiurz.github.io/img/LTChen-Intern.png&#34; alt=&#34;intern-intro&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;實習是從7/1~8/31，前兩週參加 &lt;a href=&#34;https://flolac.iis.sinica.edu.tw/zh/2024/&#34;&gt;FLOLAC&lt;/a&gt;，研習結束以後才會需要到中研院。&lt;/p&gt;
+&lt;h2 id=&#34;flolac&#34;&gt;FLOLAC&lt;/h2&gt;
+&lt;p&gt;雖然是中研院和資管系主辦，不過這門三學分的暑修課程還是能當作我們系的選修，甚至我也好奇為什麼是被歸類在資管，不過這讓我有了第一次到管院上課的經歷。&lt;/p&gt;
+&lt;p&gt;第一週的課程內容有三個主題，函數程設、邏輯與 Lambda Calculus，分別由穆信成、柯向上和陳亮廷上課。&lt;/p&gt;
+&lt;p&gt;函數程設的上課方式主要是在白板上手寫程式碼和證明，寫證明的過程中會點同學回答問題，可能因為他的教課風格比較即興一點，所以原本準備的三個主題只講完了兩個。有點可惜的是因為今年特別講題的講者需要用monadic programming，所以特別安排讓穆信成老師先把monad講完，導致漏掉的那一個主題剛好是他的研究專業。&lt;/p&gt;
+&lt;p&gt;邏輯和 Lambda Calculus 的上課方式類似，都是用投影片上課，而且投影片中有安排非常多練習題，只要一到有練習題的地方就會給十分鐘讓全班自己做做看，時間給的應該算是非常充裕，而那段時間也有很多助教會到處走來走去讓學生問問題。&lt;/p&gt;
+&lt;p&gt;內容的部分，函數程設的第一部分告訴我們為什麼函數式程式語言本身可以拿來寫證明，讓我們可以證明兩條看起來不一樣的程式碼其實做到的事情是一樣的，並且實際拿常用的資料型別來舉例；而第二部分則是為我們介紹什麼是程式的「副作用」，以及如何用 &amp;ldquo;monad&amp;rdquo; 來在函數式程式語言中處理他們，例如用monad來模擬一個可以修改的變數或是 throw exception。詳細內容可以參考&lt;a href=&#34;https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Haskell/Thinking%20Functionally%20With%20Haskell.pdf&#34;&gt;穆信成的老師的書&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;邏輯則是先教我們怎麼用自然演繹法來做邏輯推演，再介紹不同的邏輯系統，讓我們知道有「不不成立 不一定代表 成立」的邏輯系統以及他為了什麼而存在，最後再告訴我們為什麼寫程式和邏輯推演的過程是一樣的，為介紹 proof assistants 的原理鋪路。&lt;/p&gt;
+&lt;p&gt;Lambda Calculus 則是在介紹一個比圖靈機還要更早出現的計算模型，學會如何用它來寫程式以後再從 Simply Typed Lambda Calculus 開始，介紹一系列加入了不同型別系統的 Lambda Calculus，以讓他更具備成為函數式程式語言的模型的能力，到最後再以型別系統不只能拿來做型別檢查作結，給出一個將型別視為數學物件以後能夠證明某些函數無法被定義的例子。&lt;/p&gt;
+&lt;p&gt;第二週的上午時間有從英國邀請來的講者 Neel 介紹 Modal Type Theory 與應用，講到的應用幾乎都是他們在劍橋的研究團隊近幾年的研究成果，所以網路上能找到的相關資料幾乎都是他們發表的論文。第一週的課程雖然講到寫程式和邏輯推演是一樣的，但是我們只有講到用寫程式來做邏輯推演有什麼好處，而這個講題則是反過來，介紹如何以不同的邏輯系統為直覺設計特別的型別系統幫助我們寫出來的程式保證某些性質。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/FLOLAC-schedule.png&#34; alt=&#34;FLOLAC-Schedule&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第二週下午的內容就比較雜，因為陳亮廷和柯向上今年剛發表一篇有關 Bidirectional Typing 的論文，所以亮廷就花了一節課跟我們介紹那個東西如何結合 programmers 標註的型別資訊來作型別檢查以解決在沒有標註型別資訊的前提條件下 undecidable 的問題。&lt;/p&gt;
+&lt;p&gt;另外以往 FLOLAC 會在課堂上教學生用其中一個 proof assistant, Agda，而且考試會考，不過好像因為前年的狀況超慘，所以今年改成用三節課來展示他的用法而已，課表裡的  dependently typed programming 就是在展示 Agda。&lt;/p&gt;
+&lt;p&gt;這門課的評分方式是總成績122.5，22.5分是 Lambda Calculus 的作業（可不交），而100分則是考試，在第二週 Neel 開始講課之前教授們也不知道他會講什麼，所以一開始宣布的是按照傳統四個講者的主題各佔25%，但是真的講完以後整體狀況有點慘烈，一點都不是能考試的樣子，所以就臨時改成除了特別講題以外各1/3。考試的題型和上課練習差不多，邏輯和 Lambda Calculus 的題目寫起來和自動機期考的感覺超像，然而因為題目超多所以寫完那兩個部分以後函數程設的題目完全來不及寫，我只能隨便寫點東西喇一點分。&lt;/p&gt;
+&lt;p&gt;雖然日程表上考試後面沒東西，但是實際上一打鐘開始收考卷時就會播音樂，開始讓修課學生吃中研院請客的披薩和炸雞慶祝作結。&lt;/p&gt;
+&lt;p&gt;整體來說，對程式語言學有興趣的話，這門課會是一個很難得的機會，四個講師的主題最後全部都和我實習期間做的題目有關；講師們有著不同的專長和研究風格，而且這門課提供了非常多的討論時間能夠私下和他們多請教，比如 Richard Bird 在他的書裡偷渡一些 denotational semantics 的東西的時候我是課後直接拿去問穆信成才知道那是他們做那方面研究的人用的行話，直接 google 根本找不到相關資料。就算是本身就對程式語言學有一定了解的人，特別講題的設計相信也不會讓人太無聊，他們的原則是要讓學生修完課以後能夠實際知道當今的研究發展，所以應該之後找的講者也會介紹一些想學就一定要去啃論文的內容，後年有空的話我也想回來聽聽。&lt;/p&gt;
+&lt;p&gt;單純缺系選修的話這門課以3學分系選修的課而言也會是不錯的選擇，據說好像大學部的同學沒有任何一個被當掉，所以也不用擔心難度問題。&lt;/p&gt;
+&lt;h2 id=&#34;實習開始&#34;&gt;實習開始&lt;/h2&gt;
+&lt;p&gt;第一次和其他實習生們見面是在FLOLAC第一週的星期五下午，表定是一整個下午的討論時間，陳亮廷趁這個機會找了我們一起去公館的一家咖啡廳喝個咖啡順便認識一下。&lt;/p&gt;
+&lt;p&gt;實際和其他三個同事見面了以後才發現我是其中年紀最小也最不「數學」的一個，我那時剛要升大三，而有兩個人是電機系升大四，還有一個是交大應數所升碩一，而且已經有發表組合學的研究成果了，要說我的壓力那是山大。而自我介紹完亮廷就開始和我們聊聊我們的興趣之類的，以嘗試找到我們可能原本沒想過，但是其實和程式語言學有可能有關係的研究題目，例如在這裡聊到的碎形後來就成為了那個同學的研究題目。從這次小聚可以知道他是真的有仔細看我們上傳的自述，還好我有認真寫。&lt;/p&gt;
+&lt;p&gt;因為我們的實習規劃是前兩週要在台大上課，所以和其他實驗室不一樣，我們是第三週的星期一才需要到中研院報到，填完資料簽一點我也不知道他們在不在乎的保密協議以後，就來到了介紹實習規劃的環節。&lt;/p&gt;
+&lt;p&gt;亮廷是第一次收暑期實習生，而他的規劃是想要讓我們在兩個月的期間（-兩個禮拜）從尋找題目開始完成一個迷你版的研究流程。他強烈建議我們選擇偏向實作的題目而非理論的題目，因為最好要能做出一點「看得到的東西」，而他覺得除非以前有涉略過這個領域，不然理論的題目兩個月的時間不太可能有什麼成果。&lt;/p&gt;
+&lt;p&gt;實驗室的樣子和我想像中的差蠻多的，聽說別的實驗室好像有很多實驗器材甚至還有給一台電腦，相比之下這邊給我們的只有一個在辦公室裡的位子而已，其他什麼都沒有。這個辦公室也沒什麼特別的，看起來就像是系辦的樣子。這邊的人員組成疑似是由陳亮廷、柯向上、鐘楷閔以及楊伯因的實習生和學生組成（我以認得出來是誰的人猜的），儘管人數眾多，除了柯向上那邊有特別社牛的實習生會來打招呼以外還是比較少和其他人交流。&lt;/p&gt;
+&lt;p&gt;上班時間也和我原本預期的不太一樣，我原本以為像這種不用用實驗室器材做實驗的實驗室可能只要 meeting 的時候再到所就好了，結果還是要每天安排7~9小時到場，不過好消息是時間能夠自己選，所以我的上班時間就從一開始的早上九點，調整到九點半，最後常常十點多才到所， &lt;del&gt;都怪公車開太慢而且班次又少了。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;為了讓教授更好地追蹤我們的狀況，除了平常會用 slack 聯絡以外，他也有要求我們每天把做了什麼、為什麼要做和遇到什麼樣的問題用 Trello 記錄下來，我常常一想到什麼樣（天真）的問題就會列在 Trello 的每日記錄上，而大部分都會得到亮廷的回覆，而且常常都會附上一兩篇論文讓我知道我隨便一問的問題實際上和某人的研究主題有關，聽他說他在捷運上不知道該做什麼的時候就會開 Trello 看看我問了些什麼問題。&lt;/p&gt;
+&lt;p&gt;除了該待在實驗室裡的時間，我們也有一個禮拜一次的團體 meeting 和也是一個禮拜約一次的個人 meeting，團咪基本上就是四個人輪流上台介紹自己的題目和目前遇到什麼困難，個咪則比較自由，比如團咪講不清楚的東西可以再解釋一次，還有遇到任何想問的問題都可以在那個時候問。&lt;/p&gt;
+&lt;p&gt;就和網路上說的一樣，中研院的所在地真的是鳥不生蛋，自第一天亮廷帶我們看那附近有什麼能吃的以後，我們四個實習生每天午餐吃的不是活動中心，就是中研院出來門口的三家平價日式料理店（&lt;a href=&#34;https://maps.app.goo.gl/pMEtJzj1VShfVox78&#34;&gt;貳叁食堂&lt;/a&gt;、&lt;a href=&#34;https://maps.app.goo.gl/bkHNYp2aRaM1aGZB8&#34;&gt;好味餐盒&lt;/a&gt;和&lt;a href=&#34;https://maps.app.goo.gl/6MBgjNdtaMWuP2V37&#34;&gt;福咖哩&lt;/a&gt;）。&lt;/p&gt;
+&lt;h2 id=&#34;實習前期&#34;&gt;實習前期&lt;/h2&gt;
+&lt;p&gt;前兩個禮拜（其實就是到七月過完啦）給我們的工作就是用&lt;a href=&#34;https://plfa.github.io&#34;&gt;線上教材&lt;/a&gt;學會使用 Agda 這個 proof assistant （我們之後的實作都會使用 Agda），以及尋找我們有興趣的研究題目。除了那個教材以外也有給我們不少資源幫助我們尋找靈感，例如有跟研究方法有關的&lt;a href=&#34;https://www.books.com.tw/products/0010974638?srsltid=AfmBOorciPOjDqUjik5IV79aIIzsEFq5GY9wAa2uJOlhbGNe1RhZRTIJ&#34;&gt;研究的起點&lt;/a&gt;（雖然面向對象是文組研究生不過還是非常推薦！），也有一些相對好看懂也不吃基礎的論文或是有名的期刊會議列表。&lt;/p&gt;
+&lt;p&gt;我這段時間做的事情除了看那個教材以外，就在到處亂看一點有興趣而且感覺有一丟丟機會能當主題的東西，比如看別人如何在 proof assistant 裡從定義圖靈機開始到證明一些計算理論的結果、看在學Haskell的時候就很想看的&lt;a href=&#34;https://www.cs.cmu.edu/~rwh/students/okasaki.pdf&#34;&gt;有關函數式資料結構的書&lt;/a&gt;、看別人如何處理把 Lambda Calculus 當作研究複雜度理論時用的模型時遇到的問題（結果發現甚至已經被人用 Agda 驗證過了）&amp;hellip;等，最後在和亮廷討論了過後決定利用一群 CMU 的人提出的工具來做函數式資料結構的驗證，挑一個喜歡的資料結構來做 Case Study。&lt;/p&gt;
+&lt;h2 id=&#34;實習中途&#34;&gt;實習中途&lt;/h2&gt;
+&lt;p&gt;八月開始差不多習慣了在這裡的生活模式，每天到所以後就是開始讀文獻+實作。&lt;/p&gt;
+&lt;p&gt;稍微特別的可能是來了這裡以後才發現中研院有很多學術演講，比如八月初時請了諾貝爾化學獎得主來以 &amp;ldquo;The Continuing Need for Useless Knowledge&amp;rdquo; 為題做了一個演講，我想說我還蠻 useless 的所以去聽了一下，結果發現他講的 &amp;ldquo;useless&amp;rdquo; 好像還是遠比我常讀的東西還要 useful 太多了。&lt;/p&gt;
+&lt;p&gt;除了「院」的演講以外，也有「所」的演講，比如亮廷從國外邀請來中研院和他討論一些研究問題的外國學者在同一週也有演講，內容就和我們實習的主題比較相關了：由於為了維持 Agda 的正確性需要保證我們寫出來的東西不會產生無窮迴圈，所以需要一點工具來幫助我們證明一個遞迴函式會終止，而其中一個工具就是給參數制定一個拿來比較大小的度量單位，然後再證明隨著遞迴進行，這個度量會一直變小直到歸零。其中著名的例子就是阿克曼函數和 Hydra Game 了，我還真是沒想到會在中研院遇到數學之美教的東西，謝謝呂學一了。&lt;/p&gt;
+&lt;h2 id=&#34;實習尾聲&#34;&gt;實習尾聲&lt;/h2&gt;
+&lt;p&gt;實際開始寫了以後才發現能寫的內容好像不是很多，好快就來到了最後。&lt;/p&gt;
+&lt;p&gt;到了最後兩個禮拜，差不多就該停下實作開始整理最終的成果了。&lt;/p&gt;
+&lt;p&gt;所方有要求我們交一份成果報告，不過我們這邊是直接玩自己的不鳥所方的要求，寫一份2頁A4的研究摘要然後再把這份摘要當作附件交給他們，不得不說2頁真的有夠難塞，有聽說過專業論文的內容都只是研究中的冰山一角，但是想講的東西實在還是太多了，所方的要求是1500~2000字，而我的研究摘要隨便寫一寫就快8000字了。&lt;/p&gt;
+&lt;p&gt;由於所有人都有做出一點看得到的東西，所以亮廷決定以一個小小的發表會當作我們工作的結尾，邀請了穆信成、穆信成和柯向上的實習生以及柯向上的助理來，而我們有25分鐘可以介紹自己這兩個月以來的研究成果。&lt;/p&gt;
+&lt;p&gt;原本非常擔心會被台下教授問倒，結果他們應該是有給一點面子沒有問太難，順便還被穆信成抓到用 monad rule 可以更快的證明我在那邊繞路。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;發表會的海報，等到我提交了大綱看到成品後才發現原來大家都寫英文XD。雖然亮廷說會把我們的大綱放上他的個人網頁，不過因為我不知道他會不會放我們的名字，所以名字先打個碼
+&lt;img src=&#34;https://yunxiurz.github.io/img/voyage-to-agda.png&#34; alt=&#34;presentation poster&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;發表會結束後，我們的工作也差不多結束了，剩下就是調一下研究摘要的格式或是順一下句子而已，最後一天頒獎和吃披薩好像也沒什麼好寫的了，除了他們買的披薩太少了我根本沒吃飽以外。&lt;/p&gt;
+&lt;h2 id=&#34;實習過後&#34;&gt;實習過後&lt;/h2&gt;
+&lt;p&gt;實習結束以後回頭看，真的覺得這兩個月以來過著和平時學期間截然不同的生活，不用想著哪份作業什麼時候截止，完全不用在乎成績，只需要專心在思考想要做什麼和如何解決想到的問題，更重要的，也能直接當面和一些學者們問一些研究經驗或是有關學術圈的問題，這些都是我平常當學生的時候從來不會有的經歷（要問教授問題是有啦，但是我沒問過他們讀博士的時候遇到的事情），能以實習生的身份體驗這些真是賺爛，而且因為我們實驗室能選擇做的事情相對自由，變成這段時間以來會有人每個月付我兩萬塊讓我讀自己有興趣想了解的東西，怎麼想都很爽。&lt;/p&gt;
+&lt;p&gt;要說具體有什麼改變的話，我想最重要的可能是更重視「問問題」的能力，從讀「研究的起點」開始有了該多問問題的想法，也實際「應用」在了 Trello 的每日紀錄以及個人 meeting ，而這段經驗也讓我瞭解了我原本自認為天真的問題，實際上背後可能便是一個可供探索的領域，不會問問題的話可能連研究的第一步都跨不出去。&lt;/p&gt;
+&lt;p&gt;比較實務的還有 Google Scholar 的一些基本用法和中研院資訊所這裡的圖書館真的好大，而且有超級多有點歷史的書，我之後想要弄一個借書證，這樣就有總圖和天數圖以外的選擇了。&lt;/p&gt;
+&lt;h3 id=&#34;反思&#34;&gt;反思&lt;/h3&gt;
+&lt;p&gt;對於這次實習的研究成果我沒有到很滿意，其中一個原因是以「兩個月實習」的視角來說，我的時間規劃有著不小的問題，花了太多時間在讀文獻而沒有直接下場實作，以至於我的成果相對另外三個人比較少，其他實習生也有問過我為什麼我好像一直在讀文獻、我的研究摘要裡怎麼參考資料辣麼多；除此之外，我和其他三個人的主題也有著顯著的差距，不是摘要用的語言，而是其他三個人都是為自己有興趣的主題鋪下在 Agda 中實作的基礎，而我的則是以別人提出的框架為基礎做案例研究，這和我最開始對自己的期望也有差距。&lt;/p&gt;
+&lt;p&gt;說到和預期的差距的話，我們幾個實習生好像預期會在實習中做的事情和實際上的都有差距，因為為了能在兩個月內做出成果所做的取捨，內容比我們想像中的還要「實作」太多了，所以有聽到其他實習生感到比較失望。我同樣也感受到了與期待的落差，不過預期之外的是我在一直問問題的過程中實際體會了「實作的需求如何影響理論的出現」，所以要說可惜嗎？好像也不太一定，反正我實習期間也是花了不少時間在讀一些跟理論相關的論文，只是好像沒有直接幫助到我的實作而已。&lt;/p&gt;
+&lt;p&gt;除了和研究相關的反思，我英文口說的稀爛程度也在這次實習表露無遺，實習期間陳亮廷邀請了兩個國外的學者來中研院，FLOLAC特別講題的講師和演講的那個，而我們這兩個月也有時候會遇到他們或是和他們一起吃飯，不過我的英文表達能力讓我常常沒辦法表達清楚我的問題，而且也很難和他們有互動式的對話，常常只能他說一句我想十秒鐘，實在是可惜。&lt;/p&gt;
+&lt;h3 id=&#34;往後&#34;&gt;往後&lt;/h3&gt;
+&lt;p&gt;陳亮廷有邀請我們留下來當研究助理（他現在都是自己一個人QQ），可是聽了其他實習生的反應，好像沒有其他人想要留下來繼續做研究。&lt;/p&gt;
+&lt;p&gt;我的話，我沒有很想把我的那個題目整個做完（剩下的都是一些無聊的實作了），不過在研究的過程中提出的問題我還是蠻有興趣想繼續往下探索的，從解決那個問題的動機出發可以聯繫到一個正在發展中的領域，而且剛好就是柯向上博士班期間主要研究的領域。&lt;/p&gt;
+&lt;p&gt;除此之外，我的研究主題中之所以挑選那個函數式資料結構，是因為他有著和數字系統之間優雅的對應關係，而停滯了許久的函數式資料結構這個領域有一篇準備在下個月公開的期刊論文正是用那個發展中的領域來詮釋資料結構與數字系統之間的對應關係，由於不管是個人興趣還是獲得學習資源的機會都在驅使我繼續往下讀，所以實習結束後應該會繼續讀一點相關資料，然後一個月回去和他們討論一次（畢竟課業繁忙），希望我可以水水的度過系統程式設計，這樣才有多一點時間讀那邊的東西。&lt;/p&gt;
+&lt;h2 id=&#34;學分統計&#34;&gt;學分統計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;共同必修：6/9 &lt;progress id=&#34;file&#34; value=&#34;66&#34; max=&#34;100&#34;&gt; 66% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;系訂必修：32/51 &lt;progress id=&#34;file&#34; value=&#34;63&#34; max=&#34;100&#34;&gt; 63% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;輔系必修：18/23 &lt;progress id=&#34;file&#34; value=&#34;78&#34; max=&#34;100&#34;&gt; 78% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;選修
+&lt;ul&gt;
+&lt;li&gt;系訂選修：12/21 &lt;progress id=&#34;file&#34; value=&#34;57&#34; max=&#34;100&#34;&gt; 57% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;院內選修：8/9 &lt;progress id=&#34;file&#34; value=&#34;89&#34; max=&#34;100&#34;&gt; 89% &lt;/progress&gt;&lt;/li&gt;
+&lt;li&gt;一般選修：5/23 &lt;progress id=&#34;file&#34; value=&#34;28&#34; max=&#34;100&#34;&gt; 28% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通識：7/15 &lt;progress id=&#34;file&#34; value=&#34;047&#34; max=&#34;100&#34;&gt; 47% &lt;/progress&gt;  $\colorbox{white}{A1}$ $\colorbox{LimeGreen}{A2}$ $\colorbox{white}{A3}$ $\colorbox{LimeGreen}{A5}$ $\colorbox{LimeGreen}{A8}$&lt;/li&gt;
+&lt;li&gt;體育：2/4 &lt;progress id=&#34;file&#34; value=&#34;50&#34; max=&#34;100&#34;&gt; 50% &lt;/progress&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall：88/151 &lt;progress id=&#34;file&#34; value=&#34;58&#34; max=&#34;100&#34;&gt; 58% &lt;/progress&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yunxiurz.github.io/categories/%E5%AF%A6%E7%BF%92/" term="實習" label="實習" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">台大資工大二下修課心得</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2024-07-13T22:40:49&#43;08:00</updated>
             <published>2024-07-13T22:40:00&#43;08:00</published>
             <author>
@@ -282,7 +418,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -292,7 +428,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
@@ -302,8 +438,8 @@
     
         <entry>
             <title type="text">台大資工大二上修課心得</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2024-07-13T22:42:03&#43;08:00</updated>
             <published>2024-01-18T04:00:00&#43;08:00</published>
             <author>
@@ -442,7 +578,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -552,7 +688,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -638,7 +774,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -648,7 +784,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
@@ -658,8 +794,8 @@
     
         <entry>
             <title type="text">台大資工大一下修課心得</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2023-07-02T22:23:57&#43;08:00</updated>
             <published>2023-07-02T21:34:48&#43;08:00</published>
             <author>
@@ -1149,7 +1285,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -1159,7 +1295,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
@@ -1169,8 +1305,8 @@
     
         <entry>
             <title type="text">台大資工大一上修課心得</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
-            <id>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
+            <link rel="alternate" type="text/html" href="https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" />
+            <id>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</id>
             <updated>2023-01-16T00:30:26&#43;08:00</updated>
             <published>2023-01-15T23:56:48&#43;08:00</published>
             <author>
@@ -1443,7 +1579,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
+                                <category scheme="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/" term="修課心得" label="修課心得" />
                             
                         
                     
@@ -1453,7 +1589,7 @@
                             
                             
                             
-                                <category scheme="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
+                                <category scheme="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/" term="心得" label="心得" />
                             
                         
                     
