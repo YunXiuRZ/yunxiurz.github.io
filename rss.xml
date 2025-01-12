@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>$ cat YunXiuRZ</title>
-        <link>http://localhost:1313/</link>
+        <link>https://yunxiurz.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.128.2 https://gohugo.io/</generator>
         
@@ -23,16 +23,16 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 12 Jan 2025 16:26:29 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 16:33:53 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://yunxiurz.github.io/rss.xml" />
         
         
             <item>
                 <title>台大資工大三上修課心得</title>
-                <link>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%89%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%89%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
-                <pubDate>Sun, 12 Jan 2025 16:20:00 &#43;0800</pubDate>
+                <link>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%89%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%89%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+                <pubDate>Sat, 11 Jan 2025 16:20:00 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
                 
@@ -328,7 +328,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                         
@@ -338,7 +338,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
@@ -348,8 +348,8 @@
         
             <item>
                 <title>中研院資訊所實習心得 &amp; FLOLAC</title>
-                <link>http://localhost:1313/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/</guid>
+                <link>https://yunxiurz.github.io/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E4%B8%AD%E7%A0%94%E9%99%A2%E8%B3%87%E8%A8%8A%E6%89%80%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97flolac/</guid>
                 <pubDate>Tue, 03 Sep 2024 22:51:00 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
@@ -368,7 +368,7 @@
 &lt;p&gt;由於陳亮廷的安排完全符合以上三點，主題是「程式語言與數學的基礎」，所以我的第一志願就是他，申請時需要上傳的自傳也完全是針對他的主題來寫（不知道其他志願的研究員看到我的自傳會不會覺得滿頭問號）。我沒有和其他同學一樣放上一堆自己做過的專案（因為我覺得跟實習主題沒關係的東西上傳了應該也沒意義），只有在自傳中照他說的列出了「數學成熟度，以及對計算理論或邏輯有基本認識」相關的解釋、我從哪裡接觸到程式語言學、對 proof assistants 的想法以及附上我有興趣想了解的論文，最後如願被錄取了。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;研究主題介紹
-&lt;img src=&#34;http://localhost:1313/img/LTChen-Intern.png&#34; alt=&#34;intern-intro&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://yunxiurz.github.io/img/LTChen-Intern.png&#34; alt=&#34;intern-intro&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;實習是從7/1~8/31，前兩週參加 &lt;a href=&#34;https://flolac.iis.sinica.edu.tw/zh/2024/&#34;&gt;FLOLAC&lt;/a&gt;，研習結束以後才會需要到中研院。&lt;/p&gt;
 &lt;h2 id=&#34;flolac&#34;&gt;FLOLAC&lt;/h2&gt;
@@ -380,7 +380,7 @@
 &lt;p&gt;邏輯則是先教我們怎麼用自然演繹法來做邏輯推演，再介紹不同的邏輯系統，讓我們知道有「不不成立 不一定代表 成立」的邏輯系統以及他為了什麼而存在，最後再告訴我們為什麼寫程式和邏輯推演的過程是一樣的，為介紹 proof assistants 的原理鋪路。&lt;/p&gt;
 &lt;p&gt;Lambda Calculus 則是在介紹一個比圖靈機還要更早出現的計算模型，學會如何用它來寫程式以後再從 Simply Typed Lambda Calculus 開始，介紹一系列加入了不同型別系統的 Lambda Calculus，以讓他更具備成為函數式程式語言的模型的能力，到最後再以型別系統不只能拿來做型別檢查作結，給出一個將型別視為數學物件以後能夠證明某些函數無法被定義的例子。&lt;/p&gt;
 &lt;p&gt;第二週的上午時間有從英國邀請來的講者 Neel 介紹 Modal Type Theory 與應用，講到的應用幾乎都是他們在劍橋的研究團隊近幾年的研究成果，所以網路上能找到的相關資料幾乎都是他們發表的論文。第一週的課程雖然講到寫程式和邏輯推演是一樣的，但是我們只有講到用寫程式來做邏輯推演有什麼好處，而這個講題則是反過來，介紹如何以不同的邏輯系統為直覺設計特別的型別系統幫助我們寫出來的程式保證某些性質。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/FLOLAC-schedule.png&#34; alt=&#34;FLOLAC-Schedule&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/FLOLAC-schedule.png&#34; alt=&#34;FLOLAC-Schedule&#34;&gt;&lt;/p&gt;
 &lt;p&gt;第二週下午的內容就比較雜，因為陳亮廷和柯向上今年剛發表一篇有關 Bidirectional Typing 的論文，所以亮廷就花了一節課跟我們介紹那個東西如何結合 programmers 標註的型別資訊來作型別檢查以解決在沒有標註型別資訊的前提條件下 undecidable 的問題。&lt;/p&gt;
 &lt;p&gt;另外以往 FLOLAC 會在課堂上教學生用其中一個 proof assistant, Agda，而且考試會考，不過好像因為前年的狀況超慘，所以今年改成用三節課來展示他的用法而已，課表裡的  dependently typed programming 就是在展示 Agda。&lt;/p&gt;
 &lt;p&gt;這門課的評分方式是總成績122.5，22.5分是 Lambda Calculus 的作業（可不交），而100分則是考試，在第二週 Neel 開始講課之前教授們也不知道他會講什麼，所以一開始宣布的是按照傳統四個講者的主題各佔25%，但是真的講完以後整體狀況有點慘烈，一點都不是能考試的樣子，所以就臨時改成除了特別講題以外各1/3。考試的題型和上課練習差不多，邏輯和 Lambda Calculus 的題目寫起來和自動機期考的感覺超像，然而因為題目超多所以寫完那兩個部分以後函數程設的題目完全來不及寫，我只能隨便寫點東西喇一點分。&lt;/p&gt;
@@ -412,7 +412,7 @@
 &lt;p&gt;原本非常擔心會被台下教授問倒，結果他們應該是有給一點面子沒有問太難，順便還被穆信成抓到用 monad rule 可以更快的證明我在那邊繞路。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;發表會的海報，等到我提交了大綱看到成品後才發現原來大家都寫英文XD。雖然亮廷說會把我們的大綱放上他的個人網頁，不過因為我不知道他會不會放我們的名字，所以名字先打個碼
-&lt;img src=&#34;http://localhost:1313/img/voyage-to-agda.png&#34; alt=&#34;presentation poster&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://yunxiurz.github.io/img/voyage-to-agda.png&#34; alt=&#34;presentation poster&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;發表會結束後，我們的工作也差不多結束了，剩下就是調一下研究摘要的格式或是順一下句子而已，最後一天頒獎和吃披薩好像也沒什麼好寫的了，除了他們買的披薩太少了我根本沒吃飽以外。&lt;/p&gt;
 &lt;h2 id=&#34;實習過後&#34;&gt;實習過後&lt;/h2&gt;
@@ -455,13 +455,13 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E5%AF%A6%E7%BF%92/">實習</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E5%AF%A6%E7%BF%92/">實習</category>
                                 
                             
                         
@@ -471,7 +471,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
@@ -481,8 +481,8 @@
         
             <item>
                 <title>台大資工大二下修課心得</title>
-                <link>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+                <link>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
                 <pubDate>Sat, 13 Jul 2024 22:40:00 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
@@ -742,7 +742,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                         
@@ -752,7 +752,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
@@ -762,8 +762,8 @@
         
             <item>
                 <title>台大資工大二上修課心得</title>
-                <link>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+                <link>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%BA%8C%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
                 <pubDate>Thu, 18 Jan 2024 04:00:00 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
@@ -899,7 +899,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/TM.png&#34; alt=&#34;TM&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1009,7 +1009,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://yunxiurz.github.io/img/Gauss.png&#34; alt=&#34;Gauss&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1095,7 +1095,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                         
@@ -1105,7 +1105,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
@@ -1115,8 +1115,8 @@
         
             <item>
                 <title>台大資工大一下修課心得</title>
-                <link>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+                <link>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8B%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
                 <pubDate>Sun, 02 Jul 2023 21:34:48 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
@@ -1603,7 +1603,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                         
@@ -1613,7 +1613,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
@@ -1623,8 +1623,8 @@
         
             <item>
                 <title>台大資工大一上修課心得</title>
-                <link>http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
+                <link>https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link>
+                <guid isPermaLink="true">https://yunxiurz.github.io/posts/%E5%8F%B0%E5%A4%A7%E8%B3%87%E5%B7%A5%E5%A4%A7%E4%B8%80%E4%B8%8A%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid>
                 <pubDate>Sun, 15 Jan 2023 23:56:48 &#43;0800</pubDate>
                 
                     <author>jerrykao70310@gmail.com (YunXiuRZ)</author>
@@ -1894,7 +1894,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
+                                    <category domain="https://yunxiurz.github.io/categories/%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/">修課心得</category>
                                 
                             
                         
@@ -1904,7 +1904,7 @@
                                 
                                 
                                 
-                                    <category domain="http://localhost:1313/tags/%E5%BF%83%E5%BE%97/">心得</category>
+                                    <category domain="https://yunxiurz.github.io/tags/%E5%BF%83%E5%BE%97/">心得</category>
                                 
                             
                         
